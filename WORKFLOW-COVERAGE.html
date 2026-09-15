@@ -1,0 +1,36 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>WORKFLOW-COVERAGE · PNA design review</title><link rel="stylesheet" href="pack.css"></head><body><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="index.html">pna<span>/</span>eu</a><span>Public design review · 15 September 2026</span><a href="https://pna.md/">Current product ↗</a></header><main id="main"><p><a href="index.html">← Review pack</a> · <a href="WORKFLOW-COVERAGE.md">Markdown source</a></p><article><h1>Workflow coverage and replay guide</h1>
+<p>Read the evidence tier beside each screen. <code>live-public</code> captures show public page content; the browser was signed in as the operator. <code>mirrored-current-ui-synthetic-state</code> captures run current rendering with public fixtures. Neither establishes fresh human usability, production persistence or legal approval.</p>
+<h2>Current routes and material states</h2>
+<div class="table-wrap" tabindex="0" aria-label="Scrollable comparison table"><table>
+<tr><th>Route family / workflow</th><th>Coverage in this pack</th><th>Remaining limit</th></tr>
+<tr><td>Home, search and filters</td><td>Desktop/mobile, query results, filtered results and no results</td><td>No full combinatorial filter or pagination audit</td></tr>
+<tr><td>Chapters and action records</td><td>Chapter list/detail, reviewed and unreviewed records, extraction gap, conflict</td><td>Representative records only</td></tr>
+<tr><td>Evidence and documents</td><td>Expanded field quote, document page, original PDF link, attempted embedded preview</td><td>No selected-passage highlighting; PDF rendered in Brave but was blank in the in-app browser</td></tr>
+<tr><td>Methodology and history</td><td>Current explanation/implementation distinctions, correction history and archived record</td><td>Human legal acceptance remains unknown</td></tr>
+<tr><td>Contribution</td><td>Isolated citizen form, sample submission and synthetic receipt link</td><td>Does not establish real submission storage or editorial response time</td></tr>
+<tr><td>Receipt</td><td>Pending, accepted, rejected, needs information and missing/incorrect key</td><td>Status chosen by scenario; no cross-page persistent state</td></tr>
+<tr><td>Editorial claim review</td><td>Three public cases, per-claim choices, reason, saved judgment and synthetic AI comparison</td><td>Real private pilot and people excluded</td></tr>
+<tr><td>Editorial correction</td><td>New revision form and save; prior review history remains tied to old revision</td><td>No new-source editor or full operational workflow</td></tr>
+<tr><td>Recovery/access</td><td>Stale save rejection and retained notes, recovery/retry, denied, empty and save-unavailable states</td><td>Concurrency and outages are scripted, not live backend failures</td></tr>
+<tr><td>Moderation</td><td>Sample queue and decision form; denied role</td><td>No real queue or identity; publication is simulated</td></tr>
+<tr><td>Assessment, response and following</td><td>J2, J6, J7 described in brief</td><td>Not implemented; there are no truthful current screenshots of these paths</td></tr>
+</table></div>
+<h2>Repeatable editorial exercise</h2>
+<ol>
+<li>Open <code>demo/editorial.html#demo-26-b-22-2026-09-10</code> for the annual youth-centres target. Inspect the title, original wording and planned indicator. The point is to distinguish a target from proof of delivery.</li>
+<li>Open each cited PDF page or attempt the embedded preview. Choose a verdict for each of the three claims, choose an overall conclusion, and write a reason of at least 20 characters. Use conspicuously synthetic wording when saving an example.</li>
+<li>Save. Inspect the confirmation and expand the review history. The sample AI verdict becomes visible only after the demonstration judgment. Neither is a genuine review.</li>
+<li>Expand “Corectează propunerea,” edit text, and save a new version. The new version requires fresh review; previous events remain historical.</li>
+<li>Reload the page. The exercise returns to its starting state with no saved decisions.</li>
+</ol>
+<p>For stale-work recovery, start the same case with <code>?state=stale</code>. The first save returns a simulated conflict; use “Reîncarcă fișa și păstrează notele,” compare the current record, and deliberately retry. <code>?state=unavailable</code> demonstrates a failed save with text retained. <code>?state=denied</code> and <code>?state=empty</code> expose access and empty-work states. These URLs are linked from the pack so a reviewer does not need to assemble them.</p>
+<h2>Repeatable citizen exercise</h2>
+<p>Open <code>demo/action.html</code>, submit a sample correction with at least 20 characters and an HTTPS source address, and open the generated receipt. The original content and sample submission are public-source demonstrations. No message is sent. The receipt carries a fixed public example key in the fragment; removing or changing it must show the missing/incorrect-key state.</p>
+<p>Use the pack&#x27;s named receipt links to compare pending, needs-information, rejected and accepted outcomes. They show fixed example decisions. The current production receipt provides status but no reply form to satisfy a request for more information; treat that as a contribution-loop gap to address in design.</p>
+<h2>Proposed tasks, not screenshots of existing features</h2>
+<ul>
+<li>J2: from a displayed score, identify the original measure, assessor, observation period, exact report passage and conversion rule. The IPRE examples are comparator evidence, not PNA implementation scores.</li>
+<li>J6: submit an attributed alternative assessment or government response, inspect disagreement, and follow its disposition without overwriting another assessor&#x27;s position.</li>
+<li>J7: follow an issue and return after a correction; identify why the assessment changed and which aggregate was affected.</li>
+</ul>
+<p>Each external designer should use these same tasks and mark mock observations explicitly. A credible prototype must not silently turn the current planned indicators into observed results.</p></article></main><footer>Frozen evidence and a synthetic demonstration. Independent civic initiative; no government endorsement. <a href="README.html">Scope &amp; reproducibility</a></footer></body></html>

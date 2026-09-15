@@ -1,0 +1,87 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · v0.1
+- main:
+  - paragraph:
+    - text: Arhivă v0.1 · text istoric, anterior verificării independente.
+    - link "Vezi corecțiile":
+      - /url: /istoric/
+    - text: .
+  - complementary "Orientare":
+    - generic: Programul
+    - generic: Național
+    - generic: Aderare
+    - generic: /
+    - text: eu
+    - paragraph: Republica Moldova
+    - navigation "Explorează programul":
+      - link "Toate acțiunile explicate":
+        - /url: /exploreaza/
+      - paragraph: Ce te interesează?
+      - link "Educație și tineri":
+        - /url: /exploreaza/?tema=educatie
+      - link "Sănătate":
+        - /url: /exploreaza/?tema=sanatate
+      - link "Muncă și afaceri":
+        - /url: /exploreaza/?tema=munca
+      - link "Justiție și drepturi":
+        - /url: /exploreaza/?tema=justitie
+      - link "Mediu și energie":
+        - /url: /exploreaza/?tema=mediu
+      - link "Participare publică":
+        - /url: /exploreaza/?tema=participare
+      - paragraph: Programul complet
+      - link "Capitole și componente":
+        - /url: /capitole/
+      - link "Biblioteca de surse":
+        - /url: /surse/
+  - link "← Înapoi la acțiuni":
+    - /url: /exploreaza/
+  - paragraph: 27. Mediu și schimbări climatice · Anexa B · Acțiunea 9
+  - heading "Apeducte, canalizare și tratarea apelor uzate" [level=1]
+  - paragraph:
+    - text: Titlu și explicație editorială ·
+    - link "Vezi componenta":
+      - /url: /capitol/27/
+  - heading "Ce prevede această acțiune?" [level=2]
+  - paragraph: Programul prevede construcția rețelelor de apă și canalizare și a stațiilor de epurare. Indicatorul din sursă detaliază infrastructura urmărită. Fișa nu confirmă realizarea lucrărilor într-o anumită localitate.
+  - term: Instituție responsabilă
+  - definition: MIDR – Ministerul Infrastructurii și Dezvoltării Regionale
+  - term: Termen prevăzut
+  - definition: Decembrie 2026-2028
+  - paragraph:
+    - strong: "Stadiul realizării: neverificat."
+    - text: Termenul și indicatorul sunt angajamente din document, nu dovezi ale realizării. Un termen trecut nu dovedește automat o întârziere.
+  - heading "Formularea din document" [level=2]
+  - blockquote: Construcția apeductelor, rețelelor de canalizare și stații de epurare a apelor uzate
+  - generic "Indicatorul prevăzut în program"
+  - heading "Verifică sursa" [level=2]
+  - paragraph: Anexa B Capitol 27 · pagina PDF 1
+  - link "Vezi pagina din PDF":
+    - /url: /sources/27-b-2026-09-10.pdf#page=1
+  - link "PDF pe site-ul oficial ↗":
+    - /url: https://old.gov.md/sites/default/files/anexa_b_cap._27.pdf#page=1
+  - generic "Ediție și proveniență"
+  - heading "Citează această acțiune" [level=2]
+  - generic: Referință de copiat
+  - textbox "Referință de copiat": "Programul Național de Aderare a Republicii Moldova la UE 2025–2029. 27. Mediu și schimbări climatice · Anexa B · Acțiunea 9. Pagina PDF 1. Sursă: https://old.gov.md/sites/default/files/anexa_b_cap._27.pdf. Copie consultată la 10.09.2026. Fișă: https://pna.md/editii/v0.1/actiune/27-b-9-2026-09-10/"
+  - button "Copiază referința"
+  - status
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

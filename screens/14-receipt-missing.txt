@@ -1,0 +1,26 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - article:
+    - heading "Urmărește contribuția" [level=1]
+    - paragraph: Cheia este în fragmentul adresei și nu este trimisă în antetul de referință. Păstrează legătura privată; oricine o are poate vedea răspunsul.
+    - status: Resursă inexistentă.
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

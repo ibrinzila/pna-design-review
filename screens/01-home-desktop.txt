@@ -1,0 +1,94 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - heading "Programul Național Aderare /eu" [level=1]:
+    - generic: Programul
+    - generic: Național
+    - generic: Aderare
+    - generic: /
+    - text: eu
+  - paragraph: 2025–2029
+  - heading "Aderarea, pe înțelesul tuturor." [level=2]
+  - paragraph: Găsește angajamentele care te privesc, înțelege-le și mergi direct la sursă.
+  - generic: Ce te interesează?
+  - searchbox "Ce te interesează?"
+  - button "Caută"
+  - paragraph:
+    - text: 105 documente · 2 779 înregistrări căutabile
+    - text: 24 cu explicații revizuite de AI · 2 755 încă fără explicație revizuită
+    - link "Ce este verificat?":
+      - /url: /despre/#metodologie
+  - heading "Începe cu ce contează pentru tine" [level=2]
+  - link "Educație și tineri":
+    - /url: /exploreaza/?tema=educatie
+    - generic: Educație și tineri
+    - generic: →
+  - link "Sănătate":
+    - /url: /exploreaza/?tema=sanatate
+    - generic: Sănătate
+    - generic: →
+  - link "Muncă și afaceri":
+    - /url: /exploreaza/?tema=munca
+    - generic: Muncă și afaceri
+    - generic: →
+  - link "Justiție și drepturi":
+    - /url: /exploreaza/?tema=justitie
+    - generic: Justiție și drepturi
+    - generic: →
+  - link "Mediu și energie":
+    - /url: /exploreaza/?tema=mediu
+    - generic: Mediu și energie
+    - generic: →
+  - link "Participare publică":
+    - /url: /exploreaza/?tema=participare
+    - generic: Participare publică
+    - generic: →
+  - heading "Știi deja unde să cauți?" [level=3]
+  - text: Acces la structura și documentele oficiale.
+  - link "Toate capitolele →":
+    - /url: /capitole/
+  - heading "De la întrebare la angajament" [level=2]
+  - 'link "FDI-B · ACȚIUNEA 25 O platformă particip.gov.md mai ușor de folosit și de urmărit Explicație revizuită de AI CS – Cancelaria de Stat Termen: Decembrie 2026"':
+    - /url: /actiune/fdi-b-25-2026-09-10/
+    - text: FDI-B · ACȚIUNEA 25
+    - heading "O platformă particip.gov.md mai ușor de folosit și de urmărit" [level=3]
+    - paragraph: Explicație revizuită de AI
+    - generic: CS – Cancelaria de Stat
+    - generic: "Termen: Decembrie 2026"
+  - 'link "26-B · ACȚIUNEA 22 Dezvoltarea centrelor de tineret Explicație revizuită de AI MEC – Ministerul Educației și Cercetării Termen: Mai 2026-2027"':
+    - /url: /actiune/26-b-22-2026-09-10/
+    - text: 26-B · ACȚIUNEA 22
+    - heading "Dezvoltarea centrelor de tineret" [level=3]
+    - paragraph: Explicație revizuită de AI
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Mai 2026-2027"
+  - heading "Înțelege" [level=3]
+  - paragraph: Explicații accesibile, alături de formularea originală.
+  - heading "Verifică" [level=3]
+  - paragraph: Instituția, termenul și sursa. Realizarea nu este presupusă.
+  - heading "Citează" [level=3]
+  - paragraph: O referință precisă, la care poți reveni.
+  - paragraph:
+    - text: 2 779 înregistrări căutabile · 105 documente păstrate. 24 înregistrări au explicații revizuite de un al doilea agent AI; 2 755 nu au încă o explicație revizuită. Indexarea nu înseamnă verificarea conținutului.
+    - link "Acoperire și limite":
+      - /url: /despre/#metodologie
+    - text: .
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

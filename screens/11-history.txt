@@ -1,0 +1,128 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - complementary "Orientare":
+    - generic: Programul
+    - generic: Național
+    - generic: Aderare
+    - generic: /
+    - text: eu
+    - paragraph: Republica Moldova
+    - navigation "Explorează programul":
+      - link "Toate acțiunile":
+        - /url: /exploreaza/
+      - paragraph: Ce te interesează?
+      - link "Educație și tineri":
+        - /url: /exploreaza/?tema=educatie
+      - link "Sănătate":
+        - /url: /exploreaza/?tema=sanatate
+      - link "Muncă și afaceri":
+        - /url: /exploreaza/?tema=munca
+      - link "Justiție și drepturi":
+        - /url: /exploreaza/?tema=justitie
+      - link "Mediu și energie":
+        - /url: /exploreaza/?tema=mediu
+      - link "Participare publică":
+        - /url: /exploreaza/?tema=participare
+      - paragraph: Programul complet
+      - link "Capitole și componente":
+        - /url: /capitole/
+      - link "Biblioteca de surse":
+        - /url: /surse/
+      - link "Ediții și corecții":
+        - /url: /istoric/
+  - heading "Ediții și corecții" [level=1]
+  - paragraph: Fiecare ediție păstrează sursele și identificatorii. O sursă schimbată trebuie recapturată ca ediție nouă; explicațiile afectate revin la verificare.
+  - heading "Lanțul documentelor" [level=2]
+  - list:
+    - listitem: "HG 306/2025 din 28 mai 2025: aprobarea programului, Monitorul Oficial 269–288 din 2 iunie 2025, art. 319."
+    - text: "HG 818/2025 din 29 decembrie 2025: înlocuirea integrală a anexei, publicată la 13 ianuarie 2026, Monitorul Oficial 18–44, art. 7."
+    - link "Registrul legislației":
+      - /url: https://www.legis.md/cautare/downloadpdf/152627
+    - text: .
+    - listitem: Directorul guvernamental indică actualizarea în februarie 2026. Am capturat toate cele 105 PDF-uri, 1.360 de pagini, la 10 septembrie 2026.
+  - paragraph: Fișierul adoptat de pe site-ul Parlamentului și descărcarea Legis nu au putut fi recuperate la verificare (HTTP 503 / 403). Nu certificăm că toate PDF-urile din director corespund juridic anexei HG 818 sau că nu există amendamente ulterioare. Proiectul de HG 939-CS/2025 este un proiect preadoptare, nu îl substituim actului adoptat.
+  - paragraph:
+    - link "Dovezile verificării ediției (JSON)":
+      - /url: /exports/authority.json
+    - text: ·
+    - link "Directorul oficial":
+      - /url: https://old.gov.md/ro/advanced-page-type/2025-2029-national-programme-accession-republic-moldova-eu
+  - heading "Corecții ale primei versiuni" [level=2]
+  - article:
+    - heading "fdi-b-20-2026-09-10" [level=3]:
+      - link "fdi-b-20-2026-09-10":
+        - /url: /actiune/fdi-b-20-2026-09-10/
+    - paragraph: 10.09.2026 · corecție după revizuire independentă AI
+    - paragraph: Titlul precizează achiziția echipamentului pentru transmisiuni, fără a o confunda cu efectuarea transmisiunilor.
+    - generic "Înainte și după"
+    - link "Fișa arhivată din v0.1":
+      - /url: /editii/v0.1/actiune/fdi-b-20-2026-09-10/
+  - article:
+    - heading "19-b-9-2026-09-10" [level=3]:
+      - link "19-b-9-2026-09-10":
+        - /url: /actiune/19-b-9-2026-09-10/
+    - paragraph: 10.09.2026 · corecție după revizuire independentă AI
+    - paragraph: Explicația păstrează diferența dintre baza de date de pe site-ul ISM, menționată în acțiune, și cele două baze de date la MMPS și ISM, menționate în indicator.
+    - generic "Înainte și după"
+    - link "Fișa arhivată din v0.1":
+      - /url: /editii/v0.1/actiune/19-b-9-2026-09-10/
+  - article:
+    - heading "15-b-6-2026-09-10" [level=3]:
+      - link "15-b-6-2026-09-10":
+        - /url: /actiune/15-b-6-2026-09-10/
+    - paragraph: 10.09.2026 · corecție după revizuire independentă AI
+    - paragraph: Titlul nu mai adaugă eficiența electrocasnicelor ca fapt necitat; cele două clauze ale indicatorului sunt separate.
+    - generic "Înainte și după"
+    - link "Fișa arhivată din v0.1":
+      - /url: /editii/v0.1/actiune/15-b-6-2026-09-10/
+  - article:
+    - heading "27-b-9-2026-09-10" [level=3]:
+      - link "27-b-9-2026-09-10":
+        - /url: /actiune/27-b-9-2026-09-10/
+    - paragraph: 10.09.2026 · corecție după revizuire independentă AI
+    - paragraph: Explicația face vizibilă diferența dintre stațiile de epurare a apelor uzate din acțiune și stațiile de tratare a apei potabile din indicator.
+    - generic "Înainte și după"
+    - link "Fișa arhivată din v0.1":
+      - /url: /editii/v0.1/actiune/27-b-9-2026-09-10/
+  - article:
+    - heading "27-b-16-2026-09-10" [level=3]:
+      - link "27-b-16-2026-09-10":
+        - /url: /actiune/27-b-16-2026-09-10/
+    - paragraph: 10.09.2026 · corecție după revizuire independentă AI
+    - paragraph: Indicatorul include și clauza omisă despre hărțile riscului și hazardului la inundații pentru cinci zone pilot.
+    - generic "Înainte și după"
+    - link "Fișa arhivată din v0.1":
+      - /url: /editii/v0.1/actiune/27-b-16-2026-09-10/
+  - heading "Verificarea modificărilor" [level=2]
+  - paragraph: "Verificare la 2026-09-11T05:03:12.894403+00:00: 105 fișiere identice cu copiile păstrate; 0 modificate; 0 indisponibile. Aceasta verifică fișierele, nu certifică ediția juridică."
+  - paragraph:
+    - link "Raportul comparației și fișele afectate":
+      - /url: /exports/source-check.json
+  - heading "Anomalii în surse" [level=2]
+  - paragraph: Anexa B a capitolului 26 trece de la 49 la 51; nu am creat acțiunea 50. Anexa A a capitolului 20 conține un rând fără număr, păstrat prin poziția sa. Unele numere apar repetat, cu referințe UE diferite. Grupăm rândurile după numărul acțiunii și păstrăm fiecare apariție și diferență.
+  - paragraph:
+    - link "Reconcilierea rândurilor":
+      - /url: /exports/reconciliation.json
+    - text: ·
+    - link "Revizuirea diferențelor":
+      - /url: /exports/conflict-review.json
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

@@ -1,0 +1,59 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - article:
+    - paragraph: Civic Power
+    - heading "De la angajament la înțelegere" [level=1]
+    - paragraph: pna.md este o inițiativă civică independentă, parte a demersului Civic Power. Face angajamentele Republicii Moldova pentru aderarea la UE mai ușor de găsit, înțeles, citat și contestat cu dovezi. Nu este un site al Guvernului.
+    - heading "Ce include și ce este verificat" [level=2]
+    - paragraph:
+      - text: 2 779 înregistrări căutabile · 105 documente păstrate. 24 înregistrări au explicații revizuite de un al doilea agent AI; 2 755 nu au încă o explicație revizuită. Indexarea nu înseamnă verificarea conținutului.
+      - link "Acoperire și limite":
+        - /url: /despre/#metodologie
+      - text: .
+    - paragraph: Indexul acoperă toate cele 69 de anexe A și B din directorul capturat. Cele 36 de documente narative sunt căutabile separat, cu text pe pagini. Numărăm înregistrările grupate după numărul acțiunii din fiecare anexă, plus un rând fără număr. Numerele repetate și diferențele de formulare rămân vizibile. Acoperirea documentelor nu este o certificare a exactității fiecărui câmp extras.
+    - heading "Standardul fiecărei fișe" [level=2]
+    - list:
+      - listitem: Copie PDF nemodificată, URL, ediție și amprentă SHA-256.
+      - listitem: Formularea originală, rândurile asociate, instituția responsabilă și instituțiile participante, termenele distincte și indicatorul planificat.
+      - listitem: Pasaj separat pentru fiecare câmp; titlul editorial și explicația sunt marcate ca parafrază sau interpretare.
+      - listitem: Revizuire independentă contra PDF-ului. „Revizuită de AI” înseamnă verificarea de către un al doilea agent, nu aprobare umană.
+      - listitem: Explicațiile neverificate nu sunt publicate. Ambiguitățile așteaptă clarificare.
+      - listitem: Corecțiile și edițiile anterioare rămân accesibile.
+    - heading "Implementarea rămâne neverificată" [level=2]
+    - paragraph: Termenele și indicatorii sunt angajamente. Nu deducem realizarea sau întârzierea din simpla lor existență. O contribuție acceptată este o dovadă publicată cu o notă de verificare; nu schimbă automat stadiul acțiunii.
+    - heading "Contribuții și responsabilitate" [level=2]
+    - paragraph: Fiecare fișă primește corecții și dovezi. Mesajul intră într-o coadă privată a responsabilului editorial pna.md. Decizia, motivul și momentul sunt înregistrate. Autorul urmărește răspunsul cu recipisa și cheia privată. La acceptare se publică numai nota editorială și sursa; mesajul brut nu devine public automat. Nu este promis un termen de răspuns până la confirmarea responsabilului și capacității de operare.
+    - heading "Confidențialitate" [level=2]
+    - paragraph: Nu cerem nume sau e-mail pentru contribuții. Mesajul, sursa și decizia sunt stocate pe server. Adresa IP este folosită temporar pentru limitarea abuzului printr-o amprentă cu secret și interval de timp; nu salvăm adresa IP în baza aplicației. Cheia recipisei rămâne la autor, iar serverul păstrează numai amprenta ei. Nu include date personale sau informații confidențiale. Platforma de găzduire poate păstra propriile jurnale tehnice.
+    - heading "Validarea cu oameni" [level=2]
+    - paragraph:
+      - text: Testarea efectivă cu persoane care nu cunosc PNA și cu cercetători este încă în așteptare. Testele automate și inspecția de către agenți nu o înlocuiesc.
+      - link "Vezi sarcinile și criteriile de acceptare":
+        - /url: /testare/
+      - text: .
+    - paragraph:
+      - link "Ediții și corecții":
+        - /url: /istoric/
+      - text: ·
+      - link "Spațiul responsabilului editorial":
+        - /url: /revizuire/
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

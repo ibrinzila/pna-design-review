@@ -1,0 +1,110 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - complementary "Orientare":
+    - generic: Programul
+    - generic: Național
+    - generic: Aderare
+    - generic: /
+    - text: eu
+    - paragraph: Republica Moldova
+    - navigation "Explorează programul":
+      - link "Toate acțiunile":
+        - /url: /exploreaza/
+      - paragraph: Ce te interesează?
+      - link "Educație și tineri":
+        - /url: /exploreaza/?tema=educatie
+      - link "Sănătate":
+        - /url: /exploreaza/?tema=sanatate
+      - link "Muncă și afaceri":
+        - /url: /exploreaza/?tema=munca
+      - link "Justiție și drepturi":
+        - /url: /exploreaza/?tema=justitie
+      - link "Mediu și energie":
+        - /url: /exploreaza/?tema=mediu
+      - link "Participare publică":
+        - /url: /exploreaza/?tema=participare
+      - paragraph: Programul complet
+      - link "Capitole și componente":
+        - /url: /capitole/
+      - link "Biblioteca de surse":
+        - /url: /surse/
+      - link "Ediții și corecții":
+        - /url: /istoric/
+  - link "← Înapoi la acțiuni":
+    - /url: /exploreaza/
+  - paragraph: 27. Mediu și schimbări climatice · Anexa B · Acțiunea 9
+  - heading "Apeducte, canalizare și tratarea apelor uzate" [level=1]
+  - paragraph: Explicația a fost confruntată cu PDF-ul de un al doilea agent AI. Acceptarea editorială umană nu este încă înregistrată.
+  - heading "Ce prevede acțiunea?" [level=2]
+  - paragraph: Acțiunea numește rețele de apeduct, canalizare și stații de epurare a apelor uzate. Indicatorul numește însă 1.898 km de rețea de apeduct și 100 de stații de tratare a apei potabile construite sau reabilitate. Este o diferență între formulările sursei, care necesită clarificare; nu confirmăm realizarea lucrărilor.
+  - term: Instituție responsabilă
+  - definition: MIDR – Ministerul Infrastructurii și Dezvoltării Regionale
+  - term: Termen de implementare
+  - definition: Decembrie 2026-2028
+  - paragraph:
+    - strong: "Stadiul realizării: neverificat."
+    - text: Termenul și indicatorul descriu angajamentul, nu dovada realizării. Un termen trecut nu dovedește automat întârzierea.
+  - heading "Formularea din document" [level=2]
+  - blockquote: Construcția apeductelor, rețelelor de canalizare și stații de epurare a apelor uzate
+  - heading "Indicatorul planificat" [level=2]
+  - paragraph: 1898 km de rețea de apeduct construite; 100 stații de tratare a apei potabile construite/reabilitate;
+  - link "Deschide pagina PDF 1":
+    - /url: /sources/27-b-2026-09-10.pdf#page=1
+  - link "Întregul document și contextul":
+    - /url: /document/27-b/
+  - link "Sursa oficială ↗":
+    - /url: https://old.gov.md/sites/default/files/anexa_b_cap._27.pdf#page=1
+  - heading "Pe ce se bazează fiecare afirmație?" [level=2]
+  - generic "Titlul · parafrază"
+  - generic "Explicația · interpretare editorială"
+  - generic "Formularea · citat normalizat"
+  - generic "Instituția responsabilă · citat normalizat"
+  - generic "Luna · citat normalizat"
+  - generic "Anul · citat normalizat"
+  - generic "Indicatorul · citat normalizat"
+  - paragraph:
+    - link "Descarcă fișa, coordonatele celulelor și toate rândurile asociate (JSON)":
+      - /url: /records/27-b-9-2026-09-10.json
+  - heading "Citează această acțiune" [level=2]
+  - textbox: "PNA 2025–2029, 27. Mediu și schimbări climatice · Anexa B · Acțiunea 9, pagina PDF 1, copie consultată 10.09.2026. Ediție: directory-2026-02-captured-2026-09-10. SHA-256: bf13ad96da5fc7f18875ba61c93b1b889588719bd1974c2142430405eda65f72. Sursa: https://old.gov.md/sites/default/files/anexa_b_cap._27.pdf. Stadiul implementării: neverificat. Fișă: https://pna.md/actiune/27-b-9-2026-09-10/"
+  - button "Copiază referința"
+  - status
+  - paragraph:
+    - link "Ediții și istoricul corecțiilor":
+      - /url: /istoric/#27-b-9-2026-09-10
+  - heading "Semnalează o problemă sau adaugă o dovadă" [level=2]
+  - paragraph: Contribuția intră într-o coadă privată. Responsabilul editorial pna.md verifică sursa și motivează decizia. Nu este publicată automat și nu schimbă singură stadiul reformei.
+  - text: Ce trimiți?
+  - combobox "Ce trimiți?":
+    - option "O corecție la această fișă" [selected]
+    - option "O dovadă despre implementare"
+  - text: Ce trebuie verificat?
+  - textbox "Ce trebuie verificat?"
+  - text: Sursa dovezii (adresă HTTPS)
+  - textbox "Sursa dovezii (adresă HTTPS)":
+    - /placeholder: https://…
+  - paragraph: Nu include date personale, parole sau informații confidențiale. Nu cerem numele sau adresa de e-mail. Păstrează recipisa pentru a urmări răspunsul.
+  - button "Trimite pentru verificare"
+  - status
+  - heading "Dovezi și corecții primite" [level=2]
+  - status
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

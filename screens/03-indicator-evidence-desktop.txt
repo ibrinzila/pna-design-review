@@ -1,0 +1,114 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - complementary "Orientare":
+    - generic: Programul
+    - generic: Național
+    - generic: Aderare
+    - generic: /
+    - text: eu
+    - paragraph: Republica Moldova
+    - navigation "Explorează programul":
+      - link "Toate acțiunile":
+        - /url: /exploreaza/
+      - paragraph: Ce te interesează?
+      - link "Educație și tineri":
+        - /url: /exploreaza/?tema=educatie
+      - link "Sănătate":
+        - /url: /exploreaza/?tema=sanatate
+      - link "Muncă și afaceri":
+        - /url: /exploreaza/?tema=munca
+      - link "Justiție și drepturi":
+        - /url: /exploreaza/?tema=justitie
+      - link "Mediu și energie":
+        - /url: /exploreaza/?tema=mediu
+      - link "Participare publică":
+        - /url: /exploreaza/?tema=participare
+      - paragraph: Programul complet
+      - link "Capitole și componente":
+        - /url: /capitole/
+      - link "Biblioteca de surse":
+        - /url: /surse/
+      - link "Ediții și corecții":
+        - /url: /istoric/
+  - link "← Înapoi la acțiuni":
+    - /url: /exploreaza/
+  - paragraph: 26. Educație și cultură · Anexa B · Acțiunea 22
+  - heading "Dezvoltarea centrelor de tineret" [level=1]
+  - paragraph: Explicația a fost confruntată cu PDF-ul de un al doilea agent AI. Acceptarea editorială umană nu este încă înregistrată.
+  - heading "Ce prevede acțiunea?" [level=2]
+  - paragraph: Programul include dezvoltarea centrelor de tineret. Indicatorii înscriși prevăd două centre create anual și instruirea anuală a 20% dintre lucrătorii de tineret.
+  - term: Instituție responsabilă
+  - definition: MEC – Ministerul Educației și Cercetării
+  - term: Termen de implementare
+  - definition: Mai 2026-2027
+  - paragraph:
+    - strong: "Stadiul realizării: neverificat."
+    - text: Termenul și indicatorul descriu angajamentul, nu dovada realizării. Un termen trecut nu dovedește automat întârzierea.
+  - heading "Formularea din document" [level=2]
+  - blockquote: Implementarea Programului Guvernamental „Programul de dezvoltare a Centrelor de tineret 2030”
+  - heading "Indicatorul planificat" [level=2]
+  - paragraph: 1) 2 Centre de tineret create anual 2) 20% din lucrători de tineret instruiți anual
+  - link "Deschide pagina PDF 2":
+    - /url: /sources/26-b-2026-09-10.pdf#page=2
+  - link "Întregul document și contextul":
+    - /url: /document/26-b/
+  - link "Sursa oficială ↗":
+    - /url: https://old.gov.md/sites/default/files/anexa_b_cap.26_educatie_si_cultura_2.pdf#page=2
+  - heading "Pe ce se bazează fiecare afirmație?" [level=2]
+  - generic "Titlul · parafrază"
+  - generic "Explicația · interpretare editorială"
+  - generic "Formularea · citat normalizat"
+  - generic "Instituția responsabilă · citat normalizat"
+  - generic "Luna · citat normalizat"
+  - generic "Anul · citat normalizat"
+  - generic "Indicatorul · citat normalizat" [active]
+  - list:
+    - link "Pagina 2":
+      - /url: /sources/26-b-2026-09-10.pdf#page=2
+    - blockquote: 1) 2 Centre de tineret create anual 2) 20% din lucrători de tineret instruiți anual
+  - paragraph:
+    - link "Descarcă fișa, coordonatele celulelor și toate rândurile asociate (JSON)":
+      - /url: /records/26-b-22-2026-09-10.json
+  - heading "Citează această acțiune" [level=2]
+  - textbox: "PNA 2025–2029, 26. Educație și cultură · Anexa B · Acțiunea 22, pagina PDF 2, copie consultată 10.09.2026. Ediție: directory-2026-02-captured-2026-09-10. SHA-256: 70ca0a0e9a2d208a7db44da3f0e5f7381b79ff34ac9b41e7f8f19e27ec710ab3. Sursa: https://old.gov.md/sites/default/files/anexa_b_cap.26_educatie_si_cultura_2.pdf. Stadiul implementării: neverificat. Fișă: https://pna.md/actiune/26-b-22-2026-09-10/"
+  - button "Copiază referința"
+  - status
+  - paragraph:
+    - link "Ediții și istoricul corecțiilor":
+      - /url: /istoric/
+  - heading "Semnalează o problemă sau adaugă o dovadă" [level=2]
+  - paragraph: Contribuția intră într-o coadă privată. Responsabilul editorial pna.md verifică sursa și motivează decizia. Nu este publicată automat și nu schimbă singură stadiul reformei.
+  - text: Ce trimiți?
+  - combobox "Ce trimiți?":
+    - option "O corecție la această fișă" [selected]
+    - option "O dovadă despre implementare"
+  - text: Ce trebuie verificat?
+  - textbox "Ce trebuie verificat?"
+  - text: Sursa dovezii (adresă HTTPS)
+  - textbox "Sursa dovezii (adresă HTTPS)":
+    - /placeholder: https://…
+  - paragraph: Nu include date personale, parole sau informații confidențiale. Nu cerem numele sau adresa de e-mail. Păstrează recipisa pentru a urmări răspunsul.
+  - button "Trimite pentru verificare"
+  - status
+  - heading "Dovezi și corecții primite" [level=2]
+  - status
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

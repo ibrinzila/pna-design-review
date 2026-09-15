@@ -1,0 +1,32 @@
+[
+  {
+    "actionId": "26-b-22-2026-09-10",
+    "page": 2,
+    "originalUrl": "https://old.gov.md/sites/default/files/anexa_b_cap.26_educatie_si_cultura_2.pdf",
+    "retainedUrl": "https://pna.md/sources/26-b-2026-09-10.pdf",
+    "file": "documents/26-b-2026-09-10.pdf",
+    "sha256": "70ca0a0e9a2d208a7db44da3f0e5f7381b79ff34ac9b41e7f8f19e27ec710ab3",
+    "pageImage": "documents/26-b-22-2026-09-10-page.png",
+    "note": "Unmodified public document; image is a page rendering, not a proposed UI."
+  },
+  {
+    "actionId": "27-b-9-2026-09-10",
+    "page": 1,
+    "originalUrl": "https://old.gov.md/sites/default/files/anexa_b_cap._27.pdf",
+    "retainedUrl": "https://pna.md/sources/27-b-2026-09-10.pdf",
+    "file": "documents/27-b-2026-09-10.pdf",
+    "sha256": "bf13ad96da5fc7f18875ba61c93b1b889588719bd1974c2142430405eda65f72",
+    "pageImage": "documents/27-b-9-2026-09-10-page.png",
+    "note": "Unmodified public document; image is a page rendering, not a proposed UI."
+  },
+  {
+    "actionId": "20-b-20-2026-09-10",
+    "page": 2,
+    "originalUrl": "https://old.gov.md/sites/default/files/anexa_b_cap.20_politica_industriala_si_antreprenoriala_1.pdf",
+    "retainedUrl": "https://pna.md/sources/20-b-2026-09-10.pdf",
+    "file": "documents/20-b-2026-09-10.pdf",
+    "sha256": "84b514e56e1e0d9725f4b6b4695cddc9c562bd451cd235749acb580662454db1",
+    "pageImage": "documents/20-b-20-2026-09-10-page.png",
+    "note": "Unmodified public document; image is a page rendering, not a proposed UI."
+  }
+]

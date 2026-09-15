@@ -1,0 +1,1009 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - complementary "Orientare":
+    - generic: Programul
+    - generic: Național
+    - generic: Aderare
+    - generic: /
+    - text: eu
+    - paragraph: Republica Moldova
+    - navigation "Explorează programul":
+      - link "Toate acțiunile":
+        - /url: /exploreaza/
+      - paragraph: Ce te interesează?
+      - link "Educație și tineri":
+        - /url: /exploreaza/?tema=educatie
+      - link "Sănătate":
+        - /url: /exploreaza/?tema=sanatate
+      - link "Muncă și afaceri":
+        - /url: /exploreaza/?tema=munca
+      - link "Justiție și drepturi":
+        - /url: /exploreaza/?tema=justitie
+      - link "Mediu și energie":
+        - /url: /exploreaza/?tema=mediu
+      - link "Participare publică":
+        - /url: /exploreaza/?tema=participare
+      - paragraph: Programul complet
+      - link "Capitole și componente":
+        - /url: /capitole/
+      - link "Biblioteca de surse":
+        - /url: /surse/
+      - link "Ediții și corecții":
+        - /url: /istoric/
+  - heading "Biblioteca de surse" [level=1]
+  - paragraph: 105 documente, inclusiv capitolele narative și anexele A și B. Caută în textul integral extras; deschide PDF-ul pentru tabele, note și contextul original.
+  - paragraph:
+    - text: Directorul guvernamental consultat indică februarie 2026. Legătura fiecărui PDF cu anexa adoptată prin HG 818/2025 nu este încă certificată.
+    - link "Vezi ediția și verificările":
+      - /url: /istoric/
+    - text: .
+  - text: Caută în documente
+  - searchbox "Caută în documente"
+  - button "Caută"
+  - status
+  - heading "Toate documentele" [level=2]
+  - article:
+    - heading "Partea narativă Capitolul 5" [level=3]
+    - paragraph: 5. Achiziții publice
+    - link "Text, pagini și proveniență":
+      - /url: /document/5-n/
+    - link "Copia PDF":
+      - /url: /sources/5-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap._5_achizitii_publice_0.pdf
+  - article:
+    - heading "Anexa A Capitol 5" [level=3]
+    - paragraph: 5. Achiziții publice
+    - link "Text, pagini și proveniență":
+      - /url: /document/5-a/
+    - link "Copia PDF":
+      - /url: /sources/5-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/4._5.pdf
+  - article:
+    - heading "Anexa B Capitol 5" [level=3]
+    - paragraph: 5. Achiziții publice
+    - link "Text, pagini și proveniență":
+      - /url: /document/5-b/
+    - link "Copia PDF":
+      - /url: /sources/5-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/5._5.pdf
+  - article:
+    - heading "Partea narativă Capitolul 18" [level=3]
+    - paragraph: 18. Statistici
+    - link "Text, pagini și proveniență":
+      - /url: /document/18-n/
+    - link "Copia PDF":
+      - /url: /sources/18-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap._18_statistici.pdf
+  - article:
+    - heading "Anexa A Capitol 18" [level=3]
+    - paragraph: 18. Statistici
+    - link "Text, pagini și proveniență":
+      - /url: /document/18-a/
+    - link "Copia PDF":
+      - /url: /sources/18-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/5._18.pdf
+  - article:
+    - heading "Anexa B Capitol 18" [level=3]
+    - paragraph: 18. Statistici
+    - link "Text, pagini și proveniență":
+      - /url: /document/18-b/
+    - link "Copia PDF":
+      - /url: /sources/18-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/6._18.pdf
+  - article:
+    - heading "Partea narativă Capitolul 23" [level=3]
+    - paragraph: 23. Sistem judiciar și drepturi fundamentale
+    - link "Text, pagini și proveniență":
+      - /url: /document/23-n/
+    - link "Copia PDF":
+      - /url: /sources/23-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.23_sistemul_judiciar_si_drepturile_fundamentale.pdf
+  - article:
+    - heading "Anexa A Capitol 23" [level=3]
+    - paragraph: 23. Sistem judiciar și drepturi fundamentale
+    - link "Text, pagini și proveniență":
+      - /url: /document/23-a/
+    - link "Copia PDF":
+      - /url: /sources/23-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/2._23.pdf
+  - article:
+    - heading "Anexa B Capitol 23" [level=3]
+    - paragraph: 23. Sistem judiciar și drepturi fundamentale
+    - link "Text, pagini și proveniență":
+      - /url: /document/23-b/
+    - link "Copia PDF":
+      - /url: /sources/23-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/3._23.pdf
+  - article:
+    - heading "Partea narativă Capitolul 24" [level=3]
+    - paragraph: 24. Justiție, libertate și securitate
+    - link "Text, pagini și proveniență":
+      - /url: /document/24-n/
+    - link "Copia PDF":
+      - /url: /sources/24-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap._24_justitie_libertate_si_securitate_2.pdf
+  - article:
+    - heading "Anexa A Capitol 24" [level=3]
+    - paragraph: 24. Justiție, libertate și securitate
+    - link "Text, pagini și proveniență":
+      - /url: /document/24-a/
+    - link "Copia PDF":
+      - /url: /sources/24-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/2._24.pdf
+  - article:
+    - heading "Anexa B Capitol 24" [level=3]
+    - paragraph: 24. Justiție, libertate și securitate
+    - link "Text, pagini și proveniență":
+      - /url: /document/24-b/
+    - link "Copia PDF":
+      - /url: /sources/24-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/4._24.pdf
+  - article:
+    - heading "Partea narativă Capitolul 32" [level=3]
+    - paragraph: 32. Control financiar
+    - link "Text, pagini și proveniență":
+      - /url: /document/32-n/
+    - link "Copia PDF":
+      - /url: /sources/32-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap._32_control_financiar_0.pdf
+  - article:
+    - heading "Anexa A Capitol 32" [level=3]
+    - paragraph: 32. Control financiar
+    - link "Text, pagini și proveniență":
+      - /url: /document/32-a/
+    - link "Copia PDF":
+      - /url: /sources/32-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/6._32.pdf
+  - article:
+    - heading "Anexa B Capitol 32" [level=3]
+    - paragraph: 32. Control financiar
+    - link "Text, pagini și proveniență":
+      - /url: /document/32-b/
+    - link "Copia PDF":
+      - /url: /sources/32-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/7._32.pdf
+  - article:
+    - heading "Partea narativă „ Funcționarea instituțiilor democratice ”" [level=3]
+    - paragraph: Funcționarea instituțiilor democratice
+    - link "Text, pagini și proveniență":
+      - /url: /document/fdi-n/
+    - link "Copia PDF":
+      - /url: /sources/fdi-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_fdi_0.pdf
+  - article:
+    - heading "Anexa A FDI" [level=3]
+    - paragraph: Funcționarea instituțiilor democratice
+    - link "Text, pagini și proveniență":
+      - /url: /document/fdi-a/
+    - link "Copia PDF":
+      - /url: /sources/fdi-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/0_fdi.pdf
+  - article:
+    - heading "Anexa B FDI" [level=3]
+    - paragraph: Funcționarea instituțiilor democratice
+    - link "Text, pagini și proveniență":
+      - /url: /document/fdi-b/
+    - link "Copia PDF":
+      - /url: /sources/fdi-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/0.fdi.pdf
+  - article:
+    - heading "Partea narativă RAP" [level=3]
+    - paragraph: Reforma administrației publice
+    - link "Text, pagini și proveniență":
+      - /url: /document/rap-n/
+    - link "Copia PDF":
+      - /url: /sources/rap-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_par.pdf
+  - article:
+    - heading "Anexa A RAP" [level=3]
+    - paragraph: Reforma administrației publice
+    - link "Text, pagini și proveniență":
+      - /url: /document/rap-a/
+    - link "Copia PDF":
+      - /url: /sources/rap-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/1._rap.pdf
+  - article:
+    - heading "Anexa B RAP" [level=3]
+    - paragraph: Reforma administrației publice
+    - link "Text, pagini și proveniență":
+      - /url: /document/rap-b/
+    - link "Copia PDF":
+      - /url: /sources/rap-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/1._rap_0.pdf
+  - article:
+    - heading "Partea narativă „ Criteriul economic ”" [level=3]
+    - paragraph: Criteriul economic
+    - link "Text, pagini și proveniență":
+      - /url: /document/economic-n/
+    - link "Copia PDF":
+      - /url: /sources/economic-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_comp._criteriul_economic_1.pdf
+  - article:
+    - heading "Partea narativă Capitolul 1" [level=3]
+    - paragraph: 1. Libera circulație a mărfurilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/1-n/
+    - link "Copia PDF":
+      - /url: /sources/1-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.1_libera_circulatie_a_bunurilor.pdf
+  - article:
+    - heading "Anexa A Capitol 1" [level=3]
+    - paragraph: 1. Libera circulație a mărfurilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/1-a/
+    - link "Copia PDF":
+      - /url: /sources/1-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.1_libera_circulatie_a_bunurilor_1.pdf
+  - article:
+    - heading "Anexa B Capitol 1" [level=3]
+    - paragraph: 1. Libera circulație a mărfurilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/1-b/
+    - link "Copia PDF":
+      - /url: /sources/1-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.1_libera_circulatie_a_bunurilor_0.pdf
+  - article:
+    - heading "Partea narativă Capitolul 2" [level=3]
+    - paragraph: 2. Libera circulație a lucrătorilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/2-n/
+    - link "Copia PDF":
+      - /url: /sources/2-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.2_libera_circulatie_a_lucratorilor_0.pdf
+  - article:
+    - heading "Anexa A Capitol 2" [level=3]
+    - paragraph: 2. Libera circulație a lucrătorilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/2-a/
+    - link "Copia PDF":
+      - /url: /sources/2-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.2_libera_circulatie_a_lucratorilor_1.pdf
+  - article:
+    - heading "Anexa B Capitol 2" [level=3]
+    - paragraph: 2. Libera circulație a lucrătorilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/2-b/
+    - link "Copia PDF":
+      - /url: /sources/2-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.2_libera_circulatie_a_lucratorilor_1.pdf
+  - article:
+    - heading "Partea narativă Capitolul 3" [level=3]
+    - paragraph: 3. Dreptul de stabilire și libera prestare a serviciilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/3-n/
+    - link "Copia PDF":
+      - /url: /sources/3-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.3_dreptul_de_stabilire_si_libertatea_de_a_presta_servicii.pdf
+  - article:
+    - heading "Anexa A Capitol 3" [level=3]
+    - paragraph: 3. Dreptul de stabilire și libera prestare a serviciilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/3-a/
+    - link "Copia PDF":
+      - /url: /sources/3-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.3_dreptul_de_stabilire_si_libertatea_de_a_presta_servicii.pdf
+  - article:
+    - heading "Anexa B Capitol 3" [level=3]
+    - paragraph: 3. Dreptul de stabilire și libera prestare a serviciilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/3-b/
+    - link "Copia PDF":
+      - /url: /sources/3-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.3_dreptul_de_stabilire_si_libertatea_de_a_presta_servicii.pdf
+  - article:
+    - heading "Partea narativă Capitolul 4" [level=3]
+    - paragraph: 4. Libera circulație a capitalurilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/4-n/
+    - link "Copia PDF":
+      - /url: /sources/4-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.4_libera_circulatie_a_capitalului.pdf
+  - article:
+    - heading "Anexa A Capitol 4" [level=3]
+    - paragraph: 4. Libera circulație a capitalurilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/4-a/
+    - link "Copia PDF":
+      - /url: /sources/4-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.4_libera_circulatie_a_capitalului.pdf
+  - article:
+    - heading "Anexa B Capitol 4" [level=3]
+    - paragraph: 4. Libera circulație a capitalurilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/4-b/
+    - link "Copia PDF":
+      - /url: /sources/4-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.4_libera_circulatie_a_capitalului.pdf
+  - article:
+    - heading "Partea narativă Capitolul 6" [level=3]
+    - paragraph: 6. Dreptul societăților comerciale
+    - link "Text, pagini și proveniență":
+      - /url: /document/6-n/
+    - link "Copia PDF":
+      - /url: /sources/6-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.6_dreptul_societatilor_comerciale_1.pdf
+  - article:
+    - heading "Anexa A Capitol 6" [level=3]
+    - paragraph: 6. Dreptul societăților comerciale
+    - link "Text, pagini și proveniență":
+      - /url: /document/6-a/
+    - link "Copia PDF":
+      - /url: /sources/6-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.6_dreptul_societatilor_comerciale_1.pdf
+  - article:
+    - heading "Anexa B Capitol 6" [level=3]
+    - paragraph: 6. Dreptul societăților comerciale
+    - link "Text, pagini și proveniență":
+      - /url: /document/6-b/
+    - link "Copia PDF":
+      - /url: /sources/6-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.6_dreptul_societatilor_comerciale_1.pdf
+  - article:
+    - heading "Partea narativă Capitolul 7" [level=3]
+    - paragraph: 7. Dreptul proprietății intelectuale
+    - link "Text, pagini și proveniență":
+      - /url: /document/7-n/
+    - link "Copia PDF":
+      - /url: /sources/7-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.7_dreptul_proprietatii_intelectuale_0.pdf
+  - article:
+    - heading "Anexa A Capitol 7" [level=3]
+    - paragraph: 7. Dreptul proprietății intelectuale
+    - link "Text, pagini și proveniență":
+      - /url: /document/7-a/
+    - link "Copia PDF":
+      - /url: /sources/7-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.7_dreptul_proprietatii_intelectuale_0.pdf
+  - article:
+    - heading "Anexa B Capitol 7" [level=3]
+    - paragraph: 7. Dreptul proprietății intelectuale
+    - link "Text, pagini și proveniență":
+      - /url: /document/7-b/
+    - link "Copia PDF":
+      - /url: /sources/7-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.7_dreptul_proprietatii_intelectuale_1.pdf
+  - article:
+    - heading "Partea narativă Capitolul 8" [level=3]
+    - paragraph: 8. Politica în domeniul concurenței
+    - link "Text, pagini și proveniență":
+      - /url: /document/8-n/
+    - link "Copia PDF":
+      - /url: /sources/8-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.8_politica_in_domeniul_concurentei_0.pdf
+  - article:
+    - heading "Anexa A Capitol 8" [level=3]
+    - paragraph: 8. Politica în domeniul concurenței
+    - link "Text, pagini și proveniență":
+      - /url: /document/8-a/
+    - link "Copia PDF":
+      - /url: /sources/8-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.8_politica_in_domeniul_concurentei_0.pdf
+  - article:
+    - heading "Anexa B Capitol 8" [level=3]
+    - paragraph: 8. Politica în domeniul concurenței
+    - link "Text, pagini și proveniență":
+      - /url: /document/8-b/
+    - link "Copia PDF":
+      - /url: /sources/8-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.8_politica_in_domeniul_concurentei_0.pdf
+  - article:
+    - heading "Partea narativă Capitolul 9" [level=3]
+    - paragraph: 9. Servicii financiare
+    - link "Text, pagini și proveniență":
+      - /url: /document/9-n/
+    - link "Copia PDF":
+      - /url: /sources/9-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.9_servicii_financiare.pdf
+  - article:
+    - heading "Anexa A Capitol 9" [level=3]
+    - paragraph: 9. Servicii financiare
+    - link "Text, pagini și proveniență":
+      - /url: /document/9-a/
+    - link "Copia PDF":
+      - /url: /sources/9-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.9_servicii_financiare.pdf
+  - article:
+    - heading "Anexa B Capitol 9" [level=3]
+    - paragraph: 9. Servicii financiare
+    - link "Text, pagini și proveniență":
+      - /url: /document/9-b/
+    - link "Copia PDF":
+      - /url: /sources/9-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.9_servicii_financiare.pdf
+  - article:
+    - heading "Partea narativă Capitolul 28" [level=3]
+    - paragraph: 28. Protecția consumatorilor și a sănătății
+    - link "Text, pagini și proveniență":
+      - /url: /document/28-n/
+    - link "Copia PDF":
+      - /url: /sources/28-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.28_protectia_consumatorilor_si_a_sanatatii.pdf
+  - article:
+    - heading "Anexa B Capitol 28" [level=3]
+    - paragraph: 28. Protecția consumatorilor și a sănătății
+    - link "Text, pagini și proveniență":
+      - /url: /document/28-b/
+    - link "Copia PDF":
+      - /url: /sources/28-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.28_protectia_consumatorilor_si_a_sanatatii_0.pdf
+  - article:
+    - heading "Partea narativă Capitolul 10" [level=3]
+    - paragraph: 10. Transformarea digitală și mass-media
+    - link "Text, pagini și proveniență":
+      - /url: /document/10-n/
+    - link "Copia PDF":
+      - /url: /sources/10-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.10_societatea_informationala_si_mass-media_2.pdf
+  - article:
+    - heading "Anexa A Capitol 10" [level=3]
+    - paragraph: 10. Transformarea digitală și mass-media
+    - link "Text, pagini și proveniență":
+      - /url: /document/10-a/
+    - link "Copia PDF":
+      - /url: /sources/10-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.10_societatea_informationala_si_mass-media_2.pdf
+  - article:
+    - heading "Anexa B Capitol 10" [level=3]
+    - paragraph: 10. Transformarea digitală și mass-media
+    - link "Text, pagini și proveniență":
+      - /url: /document/10-b/
+    - link "Copia PDF":
+      - /url: /sources/10-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.10_societatea_informationala_si_mass-media_1.pdf
+  - article:
+    - heading "Partea narativă Capitolul 16" [level=3]
+    - paragraph: 16. Fiscalitate
+    - link "Text, pagini și proveniență":
+      - /url: /document/16-n/
+    - link "Copia PDF":
+      - /url: /sources/16-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.16_fiscalitate.docx.pdf
+  - article:
+    - heading "Anexa A Capitol 16" [level=3]
+    - paragraph: 16. Fiscalitate
+    - link "Text, pagini și proveniență":
+      - /url: /document/16-a/
+    - link "Copia PDF":
+      - /url: /sources/16-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.16_fiscalitate_-_pnaa_0.pdf
+  - article:
+    - heading "Anexa B Capitol 16" [level=3]
+    - paragraph: 16. Fiscalitate
+    - link "Text, pagini și proveniență":
+      - /url: /document/16-b/
+    - link "Copia PDF":
+      - /url: /sources/16-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.16_fiscalitate_-_pnaa_0.pdf
+  - article:
+    - heading "Partea narativă Capitolul 17" [level=3]
+    - paragraph: 17. Politica economică și monetară
+    - link "Text, pagini și proveniență":
+      - /url: /document/17-n/
+    - link "Copia PDF":
+      - /url: /sources/17-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.17_politica_economica_si_monetara_0.pdf
+  - article:
+    - heading "Anexa A Capitol 17" [level=3]
+    - paragraph: 17. Politica economică și monetară
+    - link "Text, pagini și proveniență":
+      - /url: /document/17-a/
+    - link "Copia PDF":
+      - /url: /sources/17-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.17_politica_economica_si_monetara_1.pdf
+  - article:
+    - heading "Anexa B Capitol 17" [level=3]
+    - paragraph: 17. Politica economică și monetară
+    - link "Text, pagini și proveniență":
+      - /url: /document/17-b/
+    - link "Copia PDF":
+      - /url: /sources/17-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.17_politica_economica_si_monetara_2.pdf
+  - article:
+    - heading "Partea narativă Capitolul 19" [level=3]
+    - paragraph: 19. Politica socială și ocuparea forței de muncă
+    - link "Text, pagini și proveniență":
+      - /url: /document/19-n/
+    - link "Copia PDF":
+      - /url: /sources/19-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap._19_politica_sociala_si_ocuparea_fortei_de_munca_0.pdf
+  - article:
+    - heading "Anexa A Capitol 19" [level=3]
+    - paragraph: 19. Politica socială și ocuparea forței de muncă
+    - link "Text, pagini și proveniență":
+      - /url: /document/19-a/
+    - link "Copia PDF":
+      - /url: /sources/19-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.19_politica_sociala_si_ocuparea_fortei_de_munca_-_pnaa_0.pdf
+  - article:
+    - heading "Anexa B Capitol 19" [level=3]
+    - paragraph: 19. Politica socială și ocuparea forței de muncă
+    - link "Text, pagini și proveniență":
+      - /url: /document/19-b/
+    - link "Copia PDF":
+      - /url: /sources/19-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.19_politica_sociala_si_ocuparea_fortei_de_munca_0.pdf
+  - article:
+    - heading "Partea narativă Capitolul 20" [level=3]
+    - paragraph: 20. Politica industrială și antreprenorială
+    - link "Text, pagini și proveniență":
+      - /url: /document/20-n/
+    - link "Copia PDF":
+      - /url: /sources/20-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.20_politica_industriala_si_antreprenoriala_1.pdf
+  - article:
+    - heading "Anexa A Capitol 20" [level=3]
+    - paragraph: 20. Politica industrială și antreprenorială
+    - link "Text, pagini și proveniență":
+      - /url: /document/20-a/
+    - link "Copia PDF":
+      - /url: /sources/20-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.20_politica_industriala_si_antreprenoriala_1.pdf
+  - article:
+    - heading "Anexa B Capitol 20" [level=3]
+    - paragraph: 20. Politica industrială și antreprenorială
+    - link "Text, pagini și proveniență":
+      - /url: /document/20-b/
+    - link "Copia PDF":
+      - /url: /sources/20-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.20_politica_industriala_si_antreprenoriala_1.pdf
+  - article:
+    - heading "Partea narativă Capitolul 25" [level=3]
+    - paragraph: 25. Știință și cercetare
+    - link "Text, pagini și proveniență":
+      - /url: /document/25-n/
+    - link "Copia PDF":
+      - /url: /sources/25-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.25_stiinta_si_cercetare_0.pdf
+  - article:
+    - heading "Anexa A Capitol 25" [level=3]
+    - paragraph: 25. Știință și cercetare
+    - link "Text, pagini și proveniență":
+      - /url: /document/25-a/
+    - link "Copia PDF":
+      - /url: /sources/25-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.25_stiinta_si_cercetare_2.pdf
+  - article:
+    - heading "Anexa B Capitol 25" [level=3]
+    - paragraph: 25. Știință și cercetare
+    - link "Text, pagini și proveniență":
+      - /url: /document/25-b/
+    - link "Copia PDF":
+      - /url: /sources/25-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.25_stiinta_si_cercetare_0.pdf
+  - article:
+    - heading "Partea narativă Capitolul 26" [level=3]
+    - paragraph: 26. Educație și cultură
+    - link "Text, pagini și proveniență":
+      - /url: /document/26-n/
+    - link "Copia PDF":
+      - /url: /sources/26-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.26_educatie_si_cultura_0.pdf
+  - article:
+    - heading "Anexa A Capitol 26" [level=3]
+    - paragraph: 26. Educație și cultură
+    - link "Text, pagini și proveniență":
+      - /url: /document/26-a/
+    - link "Copia PDF":
+      - /url: /sources/26-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.26_educatie_si_cultura_2.pdf
+  - article:
+    - heading "Anexa B Capitol 26" [level=3]
+    - paragraph: 26. Educație și cultură
+    - link "Text, pagini și proveniență":
+      - /url: /document/26-b/
+    - link "Copia PDF":
+      - /url: /sources/26-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.26_educatie_si_cultura_2.pdf
+  - article:
+    - heading "Partea narativă Capitolul 29" [level=3]
+    - paragraph: 29. Uniunea vamală
+    - link "Text, pagini și proveniență":
+      - /url: /document/29-n/
+    - link "Copia PDF":
+      - /url: /sources/29-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.29_uniunea_vamala.docx.pdf
+  - article:
+    - heading "Anexa A Capitol 29" [level=3]
+    - paragraph: 29. Uniunea vamală
+    - link "Text, pagini și proveniență":
+      - /url: /document/29-a/
+    - link "Copia PDF":
+      - /url: /sources/29-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.29_uniunea_vamala.xlsx_-_pnaa.pdf
+  - article:
+    - heading "Anexa B Capitol 29" [level=3]
+    - paragraph: 29. Uniunea vamală
+    - link "Text, pagini și proveniență":
+      - /url: /document/29-b/
+    - link "Copia PDF":
+      - /url: /sources/29-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.29_uniunea_vamala.xlsx_-_pnaa.pdf
+  - article:
+    - heading "Partea narativă Capitolul 14" [level=3]
+    - paragraph: 14. Politica în domeniul transporturilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/14-n/
+    - link "Copia PDF":
+      - /url: /sources/14-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap._14_politica_de_transport_.docx_3.pdf
+  - article:
+    - heading "Anexa A Capitol 14" [level=3]
+    - paragraph: 14. Politica în domeniul transporturilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/14-a/
+    - link "Copia PDF":
+      - /url: /sources/14-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap._14_politica_de_transport.xlsx_-_pnaa_3.pdf
+  - article:
+    - heading "Anexa B Capitol 14" [level=3]
+    - paragraph: 14. Politica în domeniul transporturilor
+    - link "Text, pagini și proveniență":
+      - /url: /document/14-b/
+    - link "Copia PDF":
+      - /url: /sources/14-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap._14_politica_de_transport.xlsx_-_pnaa_2.pdf
+  - article:
+    - heading "Partea narativă Capitolul 15" [level=3]
+    - paragraph: 15. Energie
+    - link "Text, pagini și proveniență":
+      - /url: /document/15-n/
+    - link "Copia PDF":
+      - /url: /sources/15-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap._15_energie_9.pdf
+  - article:
+    - heading "Anexa A Capitol 15" [level=3]
+    - paragraph: 15. Energie
+    - link "Text, pagini și proveniență":
+      - /url: /document/15-a/
+    - link "Copia PDF":
+      - /url: /sources/15-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap._15_energie_-_anexa_a_4.pdf
+  - article:
+    - heading "Anexa B Capitol 15" [level=3]
+    - paragraph: 15. Energie
+    - link "Text, pagini și proveniență":
+      - /url: /document/15-b/
+    - link "Copia PDF":
+      - /url: /sources/15-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap._15_energie_-_anexa_b_3.pdf
+  - article:
+    - heading "Partea narativă Capitolul 21" [level=3]
+    - paragraph: 21. Rețele transeuropene
+    - link "Text, pagini și proveniență":
+      - /url: /document/21-n/
+    - link "Copia PDF":
+      - /url: /sources/21-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap._21_retele_transeuropene.docx_2.pdf
+  - article:
+    - heading "Anexa A Capitol 21" [level=3]
+    - paragraph: 21. Rețele transeuropene
+    - link "Text, pagini și proveniență":
+      - /url: /document/21-a/
+    - link "Copia PDF":
+      - /url: /sources/21-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap._21_retele_transeuropene.xlsx_-_pnaa_3.pdf
+  - article:
+    - heading "Anexa B Capitol 21" [level=3]
+    - paragraph: 21. Rețele transeuropene
+    - link "Text, pagini și proveniență":
+      - /url: /document/21-b/
+    - link "Copia PDF":
+      - /url: /sources/21-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap._21_retele_transeuropene.xlsx_-_pnaa_4.pdf
+  - article:
+    - heading "Partea narativă Capitolul 27" [level=3]
+    - paragraph: 27. Mediu și schimbări climatice
+    - link "Text, pagini și proveniență":
+      - /url: /document/27-n/
+    - link "Copia PDF":
+      - /url: /sources/27-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap_27.pdf
+  - article:
+    - heading "Anexa A Capitol 27" [level=3]
+    - paragraph: 27. Mediu și schimbări climatice
+    - link "Text, pagini și proveniență":
+      - /url: /document/27-a/
+    - link "Copia PDF":
+      - /url: /sources/27-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.27.pdf
+  - article:
+    - heading "Anexa B Capitol 27" [level=3]
+    - paragraph: 27. Mediu și schimbări climatice
+    - link "Text, pagini și proveniență":
+      - /url: /document/27-b/
+    - link "Copia PDF":
+      - /url: /sources/27-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap._27.pdf
+  - article:
+    - heading "Partea narativă Capitolul 11" [level=3]
+    - paragraph: 11. Agricultură și dezvoltare rurală
+    - link "Text, pagini și proveniență":
+      - /url: /document/11-n/
+    - link "Copia PDF":
+      - /url: /sources/11-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/narativ_cap._11_agricultura_si_dezvoltarea_rurala.pdf
+  - article:
+    - heading "Anexa A Capitol 11" [level=3]
+    - paragraph: 11. Agricultură și dezvoltare rurală
+    - link "Text, pagini și proveniență":
+      - /url: /document/11-a/
+    - link "Copia PDF":
+      - /url: /sources/11-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap._11_agricultura_si_dezvoltare_rurala_0.pdf
+  - article:
+    - heading "Anexa B Capitol 11" [level=3]
+    - paragraph: 11. Agricultură și dezvoltare rurală
+    - link "Text, pagini și proveniență":
+      - /url: /document/11-b/
+    - link "Copia PDF":
+      - /url: /sources/11-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap._11_agricultura_si_dezvoltare_rurala_0.pdf
+  - article:
+    - heading "Partea narativă Capitolul 12" [level=3]
+    - paragraph: 12. Siguranța alimentară, politica sanitară și fitosanitară
+    - link "Text, pagini și proveniență":
+      - /url: /document/12-n/
+    - link "Copia PDF":
+      - /url: /sources/12-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/narativ_cap._12_siguranta_alimentara_politici_sanitare_si_fitosanitare_compressed.pdf
+  - article:
+    - heading "Anexa A Capitol 12" [level=3]
+    - paragraph: 12. Siguranța alimentară, politica sanitară și fitosanitară
+    - link "Text, pagini și proveniență":
+      - /url: /document/12-a/
+    - link "Copia PDF":
+      - /url: /sources/12-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap._12_siguranta_alimentara_politici_sanitare_si_fitosanitare_0.pdf
+  - article:
+    - heading "Anexa B Capitol 12" [level=3]
+    - paragraph: 12. Siguranța alimentară, politica sanitară și fitosanitară
+    - link "Text, pagini și proveniență":
+      - /url: /document/12-b/
+    - link "Copia PDF":
+      - /url: /sources/12-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap._12_siguranta_alimentara_politici_sanitare_si_fitosanitare_0.pdf
+  - article:
+    - heading "Partea narativă Capitolul 13" [level=3]
+    - paragraph: 13. Pescuit și acvacultură
+    - link "Text, pagini și proveniență":
+      - /url: /document/13-n/
+    - link "Copia PDF":
+      - /url: /sources/13-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/narativ_cap._13_pescuit.pdf
+  - article:
+    - heading "Anexa A Capitol 13" [level=3]
+    - paragraph: 13. Pescuit și acvacultură
+    - link "Text, pagini și proveniență":
+      - /url: /document/13-a/
+    - link "Copia PDF":
+      - /url: /sources/13-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap._13_pescuit_1.pdf
+  - article:
+    - heading "Anexa B Capitol 13" [level=3]
+    - paragraph: 13. Pescuit și acvacultură
+    - link "Text, pagini și proveniență":
+      - /url: /document/13-b/
+    - link "Copia PDF":
+      - /url: /sources/13-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap._13_pescuit_1.pdf
+  - article:
+    - heading "Partea narativă Capitolul 22" [level=3]
+    - paragraph: 22. Politica regională și coordonarea instrumentelor structurale
+    - link "Text, pagini și proveniență":
+      - /url: /document/22-n/
+    - link "Copia PDF":
+      - /url: /sources/22-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/narativ_cap.22_politica_regionala_si_coordonarea_instrumentelor_structurale.pdf
+  - article:
+    - heading "Anexa A Capitol 22" [level=3]
+    - paragraph: 22. Politica regională și coordonarea instrumentelor structurale
+    - link "Text, pagini și proveniență":
+      - /url: /document/22-a/
+    - link "Copia PDF":
+      - /url: /sources/22-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.22_politica_regionala_si_coordonarea_instrumentelor_structurale_1.pdf
+  - article:
+    - heading "Anexa B Capitol 22" [level=3]
+    - paragraph: 22. Politica regională și coordonarea instrumentelor structurale
+    - link "Text, pagini și proveniență":
+      - /url: /document/22-b/
+    - link "Copia PDF":
+      - /url: /sources/22-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.22_politica_regionala_si_coordonarea_instrumentelor_structurale_0.pdf
+  - article:
+    - heading "Partea narativă Capitolul 33" [level=3]
+    - paragraph: 33. Dispoziții financiare și bugetare
+    - link "Text, pagini și proveniență":
+      - /url: /document/33-n/
+    - link "Copia PDF":
+      - /url: /sources/33-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/narativ_cap.33_prevederi_financiare_si_bugetare.pdf
+  - article:
+    - heading "Anexa B Capitol 33" [level=3]
+    - paragraph: 33. Dispoziții financiare și bugetare
+    - link "Text, pagini și proveniență":
+      - /url: /document/33-b/
+    - link "Copia PDF":
+      - /url: /sources/33-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap._33_prevederi_financiare_si_bugetare_-_pna_b.pdf
+  - article:
+    - heading "Partea narativă Capitolul 30" [level=3]
+    - paragraph: 30. Relații externe
+    - link "Text, pagini și proveniență":
+      - /url: /document/30-n/
+    - link "Copia PDF":
+      - /url: /sources/30-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap._30_relatii_externe_1.pdf
+  - article:
+    - heading "Anexa A Capitol 30" [level=3]
+    - paragraph: 30. Relații externe
+    - link "Text, pagini și proveniență":
+      - /url: /document/30-a/
+    - link "Copia PDF":
+      - /url: /sources/30-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap._30_relatii_externe_2.pdf
+  - article:
+    - heading "Anexa B Capitol 30" [level=3]
+    - paragraph: 30. Relații externe
+    - link "Text, pagini și proveniență":
+      - /url: /document/30-b/
+    - link "Copia PDF":
+      - /url: /sources/30-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap._30_relatii_externe_1.pdf
+  - article:
+    - heading "Partea narativă Capitolul 31" [level=3]
+    - paragraph: 31. Politica externă, de securitate și apărare
+    - link "Text, pagini și proveniență":
+      - /url: /document/31-n/
+    - link "Copia PDF":
+      - /url: /sources/31-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap._31_politica_externa_de_securitate_si_aparare_1.pdf
+  - article:
+    - heading "Anexa A Capitol 31" [level=3]
+    - paragraph: 31. Politica externă, de securitate și apărare
+    - link "Text, pagini și proveniență":
+      - /url: /document/31-a/
+    - link "Copia PDF":
+      - /url: /sources/31-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap._31_politica_externa_de_securitate_si_aparare_1.pdf
+  - article:
+    - heading "Anexa B Capitol 31" [level=3]
+    - paragraph: 31. Politica externă, de securitate și apărare
+    - link "Text, pagini și proveniență":
+      - /url: /document/31-b/
+    - link "Copia PDF":
+      - /url: /sources/31-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap._31_politica_externa_de_securitate_si_aparare_1.pdf
+  - article:
+    - heading "Anexa A Capitol 28" [level=3]
+    - paragraph: 28. Protecția consumatorilor și a sănătății
+    - link "Text, pagini și proveniență":
+      - /url: /document/28-a/
+    - link "Copia PDF":
+      - /url: /sources/28-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.28_protectia_consumatorilor_si_a_sanatatii.pdf
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

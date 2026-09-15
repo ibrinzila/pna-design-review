@@ -1,0 +1,66 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - complementary "Orientare":
+    - generic: Programul
+    - generic: Național
+    - generic: Aderare
+    - generic: /
+    - text: eu
+    - paragraph: Republica Moldova
+    - navigation "Explorează programul":
+      - link "Toate acțiunile":
+        - /url: /exploreaza/
+      - paragraph: Ce te interesează?
+      - link "Educație și tineri":
+        - /url: /exploreaza/?tema=educatie
+      - link "Sănătate":
+        - /url: /exploreaza/?tema=sanatate
+      - link "Muncă și afaceri":
+        - /url: /exploreaza/?tema=munca
+      - link "Justiție și drepturi":
+        - /url: /exploreaza/?tema=justitie
+      - link "Mediu și energie":
+        - /url: /exploreaza/?tema=mediu
+      - link "Participare publică":
+        - /url: /exploreaza/?tema=participare
+      - paragraph: Programul complet
+      - link "Capitole și componente":
+        - /url: /capitole/
+      - link "Biblioteca de surse":
+        - /url: /surse/
+      - link "Ediții și corecții":
+        - /url: /istoric/
+  - heading "Anexa B Capitol 26" [level=1]
+  - paragraph: 5 pagini · copie păstrată la 10.09.2026
+  - link "Deschide PDF-ul integral":
+    - /url: /sources/26-b-2026-09-10.pdf
+  - link "Sursa oficială ↗":
+    - /url: https://old.gov.md/sites/default/files/anexa_b_cap.26_educatie_si_cultura_2.pdf
+  - paragraph: Textul extras păstrează contextul paginilor, dar poate pierde ordinea coloanelor, celulele unite și notele. PDF-ul este reperul pentru citare. Atribuirea juridică la ultima anexă adoptată așteaptă verificare.
+  - generic "Identificarea exactă a copiei"
+  - heading "Context, tabele și note" [level=2]
+  - generic "Pagina 1 · text extras"
+  - generic "Pagina 2 · text extras"
+  - generic "Pagina 3 · text extras"
+  - generic "Pagina 4 · text extras"
+  - generic "Pagina 5 · text extras"
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

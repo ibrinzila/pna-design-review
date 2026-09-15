@@ -1,0 +1,35 @@
+- complementary:
+  - strong: DEMONSTRAȚIE — date publice, decizii simulate.
+  - text: "Nu se trimit contribuții, nu se modifică PNA. Salvările dispar la reîncărcare. Scenariu: needs-information · fără rol editorial."
+  - link "Toate scenariile / Reset":
+    - /url: ../index.html#demo
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: https://pna.md/
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: https://pna.md/exploreaza/
+    - link "Surse":
+      - /url: https://pna.md/surse/
+    - link "Despre":
+      - /url: https://pna.md/despre/
+- main:
+  - article:
+    - heading "Urmărește contribuția" [level=1]
+    - paragraph: Cheia este în fragmentul adresei și nu este trimisă în antetul de referință. Păstrează legătura privată; oricine o are poate vedea răspunsul.
+    - status:
+      - heading "Necesită informații suplimentare" [level=2]
+      - paragraph: "Primită: 2026-09-15T09:00:00Z"
+      - paragraph: "EXEMPLU: verificarea cere context suplimentar."
+      - link "Înapoi la acțiune":
+        - /url: /actiune/26-b-22-2026-09-10/
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: https://pna.md/despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

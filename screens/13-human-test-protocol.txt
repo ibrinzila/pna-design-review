@@ -1,0 +1,41 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - article:
+    - heading "Poți găsi, înțelege și verifica fără ajutor?" [level=1]
+    - paragraph:
+      - strong: "Acceptare umană: în așteptare."
+      - text: Acestea sunt sarcinile testului, nu rezultate obținute.
+    - heading "Pentru un cititor nou" [level=2]
+    - list:
+      - listitem: Găsește un angajament despre educație care te privește.
+      - listitem: Explică în cuvintele tale ce promite și ce nu confirmă fișa.
+      - listitem: Găsește cine răspunde și termenul; arată pasajul din PDF.
+      - listitem: Trimite o corecție de test și regăsește răspunsul folosind recipisa.
+    - heading "Pentru un cercetător" [level=2]
+    - list:
+      - listitem: Combină două filtre, copiază adresa și redeschide aceleași rezultate.
+      - listitem: Citează o acțiune cu pagina, ediția și amprenta sursei.
+      - listitem: Identifică o diferență între rândurile sursei și explică limita concluziei.
+      - listitem: Exportă rezultatele și regăsește istoricul unei corecții.
+    - heading "Criteriul de acceptare" [level=2]
+    - paragraph: Participanții finalizează sarcinile fără îndrumare. Înregistrăm reușita, blocajele, confuziile și eventualele afirmații greșite despre realizarea reformelor. Blocajele se corectează și se retestează. Datele personale ale participanților nu se publică.
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

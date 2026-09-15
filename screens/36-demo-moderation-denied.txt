@@ -1,0 +1,37 @@
+- complementary:
+  - strong: DEMONSTRAȚIE — date publice, decizii simulate.
+  - text: "Nu se trimit contribuții, nu se modifică PNA. Salvările dispar la reîncărcare. Scenariu: denied · fără rol editorial."
+  - link "Toate scenariile / Reset":
+    - /url: ../index.html#demo
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: https://pna.md/
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: https://pna.md/exploreaza/
+    - link "Surse":
+      - /url: https://pna.md/surse/
+    - link "Despre":
+      - /url: https://pna.md/despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - article:
+    - heading "Revizuire editorială" [level=1]
+    - paragraph:
+      - link "Verificarea explicațiilor · lotul pilot":
+        - /url: editorial.html
+    - paragraph: Verifică documentul original și sursa propusă înainte de decizie. O notă publică trebuie să spună ce dovedește sursa și ce rămâne necunoscut. Elimină datele personale. Corectarea textului fișei necesită și o versiune editorială nouă; acceptarea contribuției nu modifică automat fișa.
+    - paragraph:
+      - link "Autentificare cu ChatGPT":
+        - /url: /signin-with-chatgpt?return_to=%2Frevizuire%2F
+    - status: Acces rezervat responsabilului editorial. Rolul editor nu este activ în acest scenariu.
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: https://pna.md/despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

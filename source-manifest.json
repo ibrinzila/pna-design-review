@@ -1,0 +1,55 @@
+{
+  "applicationBaseline": "216aa1b5ce42e5b13d1e3d998c17ba1c4e0402d6",
+  "files": [
+    {
+      "path": "source/assets/app.js",
+      "sha256": "60c9e7af77e05f6440a8a78ac1d54ab6d0a91fe955de32d13426fc52c14ae864",
+      "provenance": "Selected current application module; private pilot data and credentials excluded."
+    },
+    {
+      "path": "source/assets/editorial.js",
+      "sha256": "580e748884bb9557d08872e054f75f18061f2cc0b22a28aec803def93a14140e",
+      "provenance": "Selected current application module; private pilot data and credentials excluded."
+    },
+    {
+      "path": "source/assets/styles.css",
+      "sha256": "e9f20206840983fa2ebe73cf4d8fa8255459350f73c201b896fcbe677ffa2275",
+      "provenance": "Selected current application module; private pilot data and credentials excluded."
+    },
+    {
+      "path": "source/assets/editorial.css",
+      "sha256": "f2b4a6cccf147ed5ea2cbfcd88676b3090a2ad54d8159da86327dd4e1af5ab86",
+      "provenance": "Selected current application module; private pilot data and credentials excluded."
+    },
+    {
+      "path": "source/server/index.js",
+      "sha256": "08232992ae5a6421a4dfe558f4d1ce422106f4a7ffceec609f594e4076b7de06",
+      "provenance": "Selected current application module; private pilot data and credentials excluded."
+    },
+    {
+      "path": "source/server/editorial.js",
+      "sha256": "4de5d7945c06a5e08defa125115efce95142fabfa693f904261096c050a8a43e",
+      "provenance": "Selected current application module; private pilot data and credentials excluded."
+    },
+    {
+      "path": "source/server/editorial-policy.js",
+      "sha256": "0ce60f02d1ebf013f54289c78c529e4cfb30093f2541ae12b4be6d0ecc4c93ea",
+      "provenance": "Selected current application module; private pilot data and credentials excluded."
+    },
+    {
+      "path": "source/db/schema.ts",
+      "sha256": "9f3ee1c4847e414101b5e7afa210f73720b573adeaf7e872e6aa043a8cc92624",
+      "provenance": "Selected current application module; private pilot data and credentials excluded."
+    },
+    {
+      "path": "source/templates/shell.html",
+      "sha256": "84c4019f5a65d24c6e26c18fb41fcd8482037392bf915c6d75281d21cd70daa7",
+      "provenance": "Selected current application module; private pilot data and credentials excluded."
+    },
+    {
+      "path": "source/scripts/build_full.py",
+      "sha256": "e86d9060540a1d41d2276d7a95221385d9041bcd7c4f1109bfa42007837b813c",
+      "provenance": "Selected current application module; private pilot data and credentials excluded."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - complementary "Orientare":
+    - generic: Programul
+    - generic: Național
+    - generic: Aderare
+    - generic: /
+    - text: eu
+    - paragraph: Republica Moldova
+    - navigation "Explorează programul":
+      - link "Toate acțiunile":
+        - /url: /exploreaza/
+      - paragraph: Ce te interesează?
+      - link "Educație și tineri":
+        - /url: /exploreaza/?tema=educatie
+      - link "Sănătate":
+        - /url: /exploreaza/?tema=sanatate
+      - link "Muncă și afaceri":
+        - /url: /exploreaza/?tema=munca
+      - link "Justiție și drepturi":
+        - /url: /exploreaza/?tema=justitie
+      - link "Mediu și energie":
+        - /url: /exploreaza/?tema=mediu
+      - link "Participare publică":
+        - /url: /exploreaza/?tema=participare
+      - paragraph: Programul complet
+      - link "Capitole și componente":
+        - /url: /capitole/
+      - link "Biblioteca de surse":
+        - /url: /surse/
+      - link "Ediții și corecții":
+        - /url: /istoric/
+  - paragraph: De la întrebare la sursă
+  - heading "Explorează programul" [level=1]
+  - paragraph:
+    - text: Caută în formulările acțiunilor, instituții și indicatori. Pentru contextul narativ complet, folosește
+    - link "căutarea în documente":
+      - /url: /surse/
+    - text: .
+  - generic: Ce cauți?
+  - searchbox "Ce cauți?"
+  - button "Caută"
+  - 'generic "Filtre: capitol, instituție, termen și revizuire"'
+  - option "Toate temele" [selected]
+  - option "Educație și tineri"
+  - option "Sănătate"
+  - option "Muncă și afaceri"
+  - option "Justiție și drepturi"
+  - option "Mediu și energie"
+  - option "Participare publică"
+  - option "Toate capitolele" [selected]
+  - option "1. Libera circulație a mărfurilor"
+  - option "2. Libera circulație a lucrătorilor"
+  - option "3. Dreptul de stabilire și libera prestare a serviciilor"
+  - option "4. Libera circulație a capitalurilor"
+  - option "5. Achiziții publice"
+  - option "6. Dreptul societăților comerciale"
+  - option "7. Dreptul proprietății intelectuale"
+  - option "8. Politica în domeniul concurenței"
+  - option "9. Servicii financiare"
+  - option "10. Transformarea digitală și mass-media"
+  - option "11. Agricultură și dezvoltare rurală"
+  - option "12. Siguranța alimentară, politica sanitară și fitosanitară"
+  - option "13. Pescuit și acvacultură"
+  - option "14. Politica în domeniul transporturilor"
+  - option "15. Energie"
+  - option "16. Fiscalitate"
+  - option "17. Politica economică și monetară"
+  - option "18. Statistici"
+  - option "19. Politica socială și ocuparea forței de muncă"
+  - option "20. Politica industrială și antreprenorială"
+  - option "21. Rețele transeuropene"
+  - option "22. Politica regională și coordonarea instrumentelor structurale"
+  - option "23. Sistem judiciar și drepturi fundamentale"
+  - option "24. Justiție, libertate și securitate"
+  - option "25. Știință și cercetare"
+  - option "26. Educație și cultură"
+  - option "27. Mediu și schimbări climatice"
+  - option "28. Protecția consumatorilor și a sănătății"
+  - option "29. Uniunea vamală"
+  - option "30. Relații externe"
+  - option "31. Politica externă, de securitate și apărare"
+  - option "32. Control financiar"
+  - option "33. Dispoziții financiare și bugetare"
+  - option "Funcționarea instituțiilor democratice"
+  - option "Reforma administrației publice"
+  - option "Criteriul economic"
+  - option "Toți anii" [selected]
+  - option "2025"
+  - option "2026"
+  - option "2027"
+  - option "2028"
+  - option "2029"
+  - option "Toate tipurile" [selected]
+  - option "Normativă · Anexa A"
+  - option "Implementare · Anexa B"
+  - option "Orice stare" [selected]
+  - option "Revizuită de AI"
+  - option "În așteptare"
+  - link "Resetează filtrele":
+    - /url: /exploreaza/
+  - paragraph:
+    - text: 2 779 înregistrări căutabile · 105 documente păstrate. 24 înregistrări au explicații revizuite de un al doilea agent AI; 2 755 nu au încă o explicație revizuită. Indexarea nu înseamnă verificarea conținutului.
+    - link "Acoperire și limite":
+      - /url: /despre/#metodologie
+    - text: .
+  - paragraph: Temele sunt orientative și atribuite după capitol; unele acțiuni ating mai multe teme.
+  - status: Se încarcă indexul…
+  - button "← Înapoi"
+  - button "Mai departe →"
+  - paragraph:
+    - link "Descarcă rezultatele CSV":
+      - /url: /exports/actions.csv
+    - text: ·
+    - link "Datele complete și dovezile (JSON)":
+      - /url: /exports/actions.json
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

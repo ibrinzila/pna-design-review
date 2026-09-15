@@ -1,0 +1,104 @@
+- complementary:
+  - strong: DEMONSTRAȚIE — date publice, decizii simulate.
+  - text: "Nu se trimit contribuții, nu se modifică PNA. Salvările dispar la reîncărcare. Scenariu: ready · rol editor simulat."
+  - link "Toate scenariile / Reset":
+    - /url: ../index.html#demo
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: https://pna.md/
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: https://pna.md/exploreaza/
+    - link "Surse":
+      - /url: https://pna.md/surse/
+    - link "Despre":
+      - /url: https://pna.md/despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - paragraph:
+    - link "← Contribuții și dovezi":
+      - /url: moderation.html
+    - text: ·
+    - link "Programul public":
+      - /url: https://pna.md/exploreaza/
+  - heading "Verificarea explicațiilor" [level=1]
+  - paragraph: 3 fișe în lot · calibrarea umană și corespondența juridică sunt în așteptare.
+  - paragraph:
+    - link "Ieșire din cont":
+      - /url: /signout-with-chatgpt?return_to=%2Frevizuire%2Fexplicatii%2F
+  - text: Alege fișa
+  - combobox "Alege fișa":
+    - option "DEMO-20-B-20 · Acțiunea 20"
+    - option "DEMO-26-B-22 · Dezvoltarea centrelor de tineret" [selected]
+    - option "DEMO-27-B-9 · Apeducte, canalizare și tratarea apelor uzate"
+  - status: Fișă încărcată. Salvarea verificării nu publică explicația.
+  - region "Explicație și verificare":
+    - 'heading "EXEMPLU: țintele anuale pentru centrele de tineret" [level=2]'
+    - paragraph: Propunere de explicație
+    - paragraph: Programul include dezvoltarea centrelor de tineret. Indicatorii înscriși prevăd două centre create anual și instruirea anuală a 20% dintre lucrătorii de tineret.
+    - generic "Observații și limite"
+    - heading "Verifică afirmațiile" [level=2]
+    - paragraph: Implementarea Programului Guvernamental „Programul de dezvoltare a Centrelor de tineret 2030”
+    - link "Pagina 2 din PDF":
+      - /url: https://pna.md/sources/26-b-2026-09-10.pdf#page=2
+    - blockquote: Implementarea Programului Guvernamental „Programul de dezvoltare a Centrelor de tineret 2030”
+    - text: Această afirmație este susținută?
+    - combobox "Această afirmație este susținută?":
+      - option "Alege după verificarea sursei" [selected]
+      - option "Conform sursei"
+      - option "Necesită corectare"
+      - option "Necesită clarificare"
+    - paragraph: 1) 2 Centre de tineret create anual 2) 20% din lucrători de tineret instruiți anual
+    - link "Pagina 2 din PDF":
+      - /url: https://pna.md/sources/26-b-2026-09-10.pdf#page=2
+    - blockquote: 1) 2 Centre de tineret create anual 2) 20% din lucrători de tineret instruiți anual
+    - text: Această afirmație este susținută?
+    - combobox "Această afirmație este susținută?":
+      - option "Alege după verificarea sursei" [selected]
+      - option "Conform sursei"
+      - option "Necesită corectare"
+      - option "Necesită clarificare"
+    - paragraph: MEC – Ministerul Educației și Cercetării
+    - link "Pagina 2 din PDF":
+      - /url: https://pna.md/sources/26-b-2026-09-10.pdf#page=2
+    - blockquote: MEC – Ministerul Educației și Cercetării
+    - text: Această afirmație este susținută?
+    - combobox "Această afirmație este susținută?":
+      - option "Alege după verificarea sursei" [selected]
+      - option "Conform sursei"
+      - option "Necesită corectare"
+      - option "Necesită clarificare"
+    - text: Concluzia pentru titlu, explicație și surse
+    - combobox "Concluzia pentru titlu, explicație și surse":
+      - option "Alege după verificarea sursei" [selected]
+      - option "Conform sursei"
+      - option "Necesită corectare"
+      - option "Necesită clarificare"
+    - text: Motivul deciziei și ce trebuie corectat
+    - textbox "Motivul deciziei și ce trebuie corectat"
+    - button "Salvează verificarea"
+    - status: Versiunea nouă este salvată și așteaptă o nouă verificare independentă.
+    - generic "Corectează propunerea"
+    - generic "Istoricul verificărilor (2)" [active]
+    - paragraph: Revizuire AI · Necesită clarificare · versiune anterioară
+    - paragraph: "EXEMPLU demonstrativ: verdict AI simulat pentru a arăta comparația. Nu reprezintă o analiză a sursei."
+    - paragraph: Revizuire umană · Necesită clarificare · versiune anterioară
+    - paragraph: "EXEMPLU DEMONSTRATIV: sursa descrie o țintă anuală, nu o măsurare a implementării."
+  - complementary "Sursa originală":
+    - heading "Documentul original" [level=2]
+    - link "Pagina 2 din PDF":
+      - /url: https://pna.md/sources/26-b-2026-09-10.pdf#page=2
+    - paragraph
+    - button "Arată PDF-ul în pagină"
+    - generic "Formularea și indicatorul extrase"
+    - paragraph: Copie din ediția documentată; corespondența cu anexa legală adoptată rămâne de verificat.
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: https://pna.md/despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

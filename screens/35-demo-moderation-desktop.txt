@@ -1,0 +1,58 @@
+- complementary:
+  - strong: DEMONSTRAȚIE — date publice, decizii simulate.
+  - text: "Nu se trimit contribuții, nu se modifică PNA. Salvările dispar la reîncărcare. Scenariu: ready · rol editor simulat."
+  - link "Toate scenariile / Reset":
+    - /url: ../index.html#demo
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: https://pna.md/
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: https://pna.md/exploreaza/
+    - link "Surse":
+      - /url: https://pna.md/surse/
+    - link "Despre":
+      - /url: https://pna.md/despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - article:
+    - heading "Revizuire editorială" [level=1]
+    - paragraph:
+      - link "Verificarea explicațiilor · lotul pilot":
+        - /url: editorial.html
+    - paragraph: Verifică documentul original și sursa propusă înainte de decizie. O notă publică trebuie să spună ce dovedește sursa și ce rămâne necunoscut. Elimină datele personale. Corectarea textului fișei necesită și o versiune editorială nouă; acceptarea contribuției nu modifică automat fișa.
+    - paragraph:
+      - link "Autentificare cu ChatGPT":
+        - /url: /signin-with-chatgpt?return_to=%2Frevizuire%2F
+    - status: "1 contribuții recente. DEMONSTRAȚIE: deciziile folosesc un rol editorial simulat, fără cont real."
+    - article:
+      - heading "demo-contribution · TEST PRIVAT" [level=2]
+      - link "Deschide acțiunea":
+        - /url: /actiune/26-b-22-2026-09-10/
+      - paragraph: "EXEMPLU: indicatorul este o țintă anuală. Verificați că textul nu afirmă realizarea ei."
+      - link "Deschide sursa propusă ↗":
+        - /url: https://pna.md/sources/26-b-2026-09-10.pdf
+      - paragraph: "Stare: pending · versiunea 0"
+      - text: Decizie
+      - combobox "Decizie":
+        - option "Necesită informații" [selected]
+        - option "Nu accepta"
+        - option "Acceptă și publică nota"
+      - text: Motivul deciziei (vizibil autorului)
+      - textbox "Motivul deciziei (vizibil autorului)"
+      - text: Nota publică (obligatorie la acceptare)
+      - textbox "Nota publică (obligatorie la acceptare)"
+      - text: Citatul exact care susține nota (obligatoriu la acceptare)
+      - textbox "Citatul exact care susține nota (obligatoriu la acceptare)"
+      - button "Înregistrează decizia"
+      - status
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: https://pna.md/despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

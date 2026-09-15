@@ -1,0 +1,711 @@
+[
+  {
+    "id": "01-home-desktop",
+    "url": "https://pna.md/",
+    "tier": "live-public-page",
+    "task": "J1",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/01-home-desktop.png",
+    "snapshot": "screens/01-home-desktop.txt",
+    "capturedAt": "2026-09-15T07:28:16.704Z",
+    "replayUrl": "https://pna.md/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit"
+  },
+  {
+    "id": "02-action-desktop",
+    "url": "https://pna.md/actiune/26-b-22-2026-09-10/",
+    "tier": "live-public-page",
+    "task": "J1",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/02-action-desktop.png",
+    "snapshot": "screens/02-action-desktop.txt",
+    "capturedAt": "2026-09-15T07:28:17.003Z",
+    "replayUrl": "https://pna.md/actiune/26-b-22-2026-09-10/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit"
+  },
+  {
+    "id": "03-indicator-evidence-desktop",
+    "url": "https://pna.md/actiune/26-b-22-2026-09-10/",
+    "tier": "live-public-page",
+    "task": "J1",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/03-indicator-evidence-desktop.png",
+    "snapshot": "screens/03-indicator-evidence-desktop.txt",
+    "capturedAt": "2026-09-15T07:29:12.852Z",
+    "replayUrl": "https://pna.md/actiune/26-b-22-2026-09-10/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "04-ipre-recommendations",
+    "url": "https://ipre.md/eu-tracker/ipre_eu_recs_2026.html",
+    "tier": "live-comparator",
+    "task": "J2",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/04-ipre-recommendations.png",
+    "snapshot": "screens/04-ipre-recommendations.txt",
+    "capturedAt": "2026-09-15T07:29:24.035Z",
+    "replayUrl": "https://ipre.md/eu-tracker/ipre_eu_recs_2026.html",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "05-explorer-filtered",
+    "url": "https://pna.md/exploreaza/?tema=educatie",
+    "tier": "live-public-page",
+    "task": "J1",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/05-explorer-filtered.png",
+    "snapshot": "screens/05-explorer-filtered.txt",
+    "capturedAt": "2026-09-15T07:28:17.261Z",
+    "replayUrl": "https://pna.md/exploreaza/?tema=educatie",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit"
+  },
+  {
+    "id": "06-explorer-empty",
+    "url": "https://pna.md/exploreaza/?q=zzzxqv&tema=educatie",
+    "tier": "live-public-page",
+    "task": "J1 recovery",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/06-explorer-empty.png",
+    "snapshot": "screens/06-explorer-empty.txt",
+    "capturedAt": "2026-09-15T07:28:17.712Z",
+    "replayUrl": "https://pna.md/exploreaza/?q=zzzxqv&tema=educatie",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit"
+  },
+  {
+    "id": "07-chapters",
+    "url": "https://pna.md/capitole/",
+    "tier": "live-public-page",
+    "task": "Current route coverage",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/07-chapters.png",
+    "snapshot": "screens/07-chapters.txt",
+    "capturedAt": "2026-09-15T07:28:17.976Z",
+    "replayUrl": "https://pna.md/capitole/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit"
+  },
+  {
+    "id": "08-chapter",
+    "url": "https://pna.md/capitol/26/",
+    "tier": "live-public-page",
+    "task": "Current route coverage",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/08-chapter.png",
+    "snapshot": "screens/08-chapter.txt",
+    "capturedAt": "2026-09-15T07:28:55.493Z",
+    "replayUrl": "https://pna.md/capitol/26/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "viewport"
+  },
+  {
+    "id": "09-sources",
+    "url": "https://pna.md/surse/",
+    "tier": "live-public-page",
+    "task": "Current route coverage",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/09-sources.png",
+    "snapshot": "screens/09-sources.txt",
+    "capturedAt": "2026-09-15T07:28:59.343Z",
+    "replayUrl": "https://pna.md/surse/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "viewport"
+  },
+  {
+    "id": "10-document",
+    "url": "https://pna.md/document/26-b/",
+    "tier": "live-public-page",
+    "task": "Current route coverage",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/10-document.png",
+    "snapshot": "screens/10-document.txt",
+    "capturedAt": "2026-09-15T07:28:59.681Z",
+    "replayUrl": "https://pna.md/document/26-b/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "11-history",
+    "url": "https://pna.md/istoric/",
+    "tier": "live-public-page",
+    "task": "Current route coverage",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/11-history.png",
+    "snapshot": "screens/11-history.txt",
+    "capturedAt": "2026-09-15T07:28:59.954Z",
+    "replayUrl": "https://pna.md/istoric/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "12-methodology",
+    "url": "https://pna.md/despre/",
+    "tier": "live-public-page",
+    "task": "Current route coverage",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/12-methodology.png",
+    "snapshot": "screens/12-methodology.txt",
+    "capturedAt": "2026-09-15T07:29:00.310Z",
+    "replayUrl": "https://pna.md/despre/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "13-human-test-protocol",
+    "url": "https://pna.md/testare/",
+    "tier": "live-public-page",
+    "task": "Current route coverage",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/13-human-test-protocol.png",
+    "snapshot": "screens/13-human-test-protocol.txt",
+    "capturedAt": "2026-09-15T07:29:00.616Z",
+    "replayUrl": "https://pna.md/testare/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "14-receipt-missing",
+    "url": "https://pna.md/recipisa/",
+    "tier": "live-public-page",
+    "task": "Current route coverage",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/14-receipt-missing.png",
+    "snapshot": "screens/14-receipt-missing.txt",
+    "capturedAt": "2026-09-15T07:29:00.931Z",
+    "replayUrl": "https://pna.md/recipisa/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "15-unreviewed-action",
+    "url": "https://pna.md/actiune/5-a-2-2026-09-10/",
+    "tier": "live-public-page",
+    "task": "Current route coverage",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/15-unreviewed-action.png",
+    "snapshot": "screens/15-unreviewed-action.txt",
+    "capturedAt": "2026-09-15T07:29:01.203Z",
+    "replayUrl": "https://pna.md/actiune/5-a-2-2026-09-10/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "16-source-conflict",
+    "url": "https://pna.md/actiune/27-b-9-2026-09-10/",
+    "tier": "live-public-page",
+    "task": "Current route coverage",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/16-source-conflict.png",
+    "snapshot": "screens/16-source-conflict.txt",
+    "capturedAt": "2026-09-15T07:29:01.524Z",
+    "replayUrl": "https://pna.md/actiune/27-b-9-2026-09-10/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "17-archive",
+    "url": "https://pna.md/editii/v0.1/actiune/27-b-9-2026-09-10/",
+    "tier": "live-public-page",
+    "task": "Current route coverage",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/17-archive.png",
+    "snapshot": "screens/17-archive.txt",
+    "capturedAt": "2026-09-15T07:29:01.815Z",
+    "replayUrl": "https://pna.md/editii/v0.1/actiune/27-b-9-2026-09-10/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "18-home-mobile",
+    "url": "https://pna.md/",
+    "tier": "live-public-page",
+    "task": "Mobile current surface",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/18-home-mobile.png",
+    "snapshot": "screens/18-home-mobile.txt",
+    "capturedAt": "2026-09-15T07:29:24.743Z",
+    "replayUrl": "https://pna.md/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "19-action-mobile",
+    "url": "https://pna.md/actiune/26-b-22-2026-09-10/",
+    "tier": "live-public-page",
+    "task": "Mobile current surface",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/19-action-mobile.png",
+    "snapshot": "screens/19-action-mobile.txt",
+    "capturedAt": "2026-09-15T07:29:25.055Z",
+    "replayUrl": "https://pna.md/actiune/26-b-22-2026-09-10/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "20-explorer-mobile",
+    "url": "https://pna.md/exploreaza/?q=tineret",
+    "tier": "live-public-page",
+    "task": "Mobile current surface",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/20-explorer-mobile.png",
+    "snapshot": "screens/20-explorer-mobile.txt",
+    "capturedAt": "2026-09-15T07:29:25.420Z",
+    "replayUrl": "https://pna.md/exploreaza/?q=tineret",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "viewport"
+  },
+  {
+    "id": "21-document-mobile",
+    "url": "https://pna.md/document/26-b/",
+    "tier": "live-public-page",
+    "task": "Mobile current surface",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/21-document-mobile.png",
+    "snapshot": "screens/21-document-mobile.txt",
+    "capturedAt": "2026-09-15T07:29:25.729Z",
+    "replayUrl": "https://pna.md/document/26-b/",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "22-demo-editorial-desktop",
+    "url": "http://127.0.0.1:8794/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J4: compare a public target with its quoted source",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/22-demo-editorial-desktop.png",
+    "snapshot": "screens/22-demo-editorial-desktop.txt",
+    "capturedAt": "2026-09-15T07:29:44.088Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "23-demo-source-preview",
+    "url": "http://127.0.0.1:8794/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J4: open the original PDF beside the claim; viewer rendering depends on browser support",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/23-demo-source-preview.png",
+    "snapshot": "screens/23-demo-source-preview.txt",
+    "capturedAt": "2026-09-15T07:29:47.268Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "24-demo-saved-review",
+    "url": "http://127.0.0.1:8794/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J4: save a sample judgment; reveal synthetic AI comparison and revision-bound history",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/24-demo-saved-review.png",
+    "snapshot": "screens/24-demo-saved-review.txt",
+    "capturedAt": "2026-09-15T07:30:09.183Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "25-demo-stale-work",
+    "url": "http://127.0.0.1:8794/demo/editorial.html?state=stale#demo-26-b-22-2026-09-10",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J5: stale save rejected; notes remain, reload-current-version recovery appears",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/25-demo-stale-work.png",
+    "snapshot": "screens/25-demo-stale-work.txt",
+    "capturedAt": "2026-09-15T07:30:13.822Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html?state=stale#demo-26-b-22-2026-09-10",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "26-demo-recovered-save",
+    "url": "http://127.0.0.1:8794/demo/editorial.html?state=stale#demo-26-b-22-2026-09-10",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J5: retry succeeds after reloading the current version with notes retained",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/26-demo-recovered-save.png",
+    "snapshot": "screens/26-demo-recovered-save.txt",
+    "capturedAt": "2026-09-15T07:30:33.481Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html?state=stale#demo-26-b-22-2026-09-10",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "27-demo-editorial-mobile",
+    "url": "http://127.0.0.1:8794/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J4: current editorial reading and source controls in a narrow viewport",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/27-demo-editorial-mobile.png",
+    "snapshot": "screens/27-demo-editorial-mobile.txt",
+    "capturedAt": "2026-09-15T07:29:25.925Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "28-demo-receipt-pending",
+    "url": "http://127.0.0.1:8794/demo/receipt.html?state=pending#id=demo-contribution&token=demo-key-public-example",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J3: pending synthetic receipt",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/28-demo-receipt-pending.png",
+    "snapshot": "screens/28-demo-receipt-pending.txt",
+    "capturedAt": "2026-09-15T07:29:26.096Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/receipt.html?state=pending#id=demo-contribution&token=demo-key-public-example",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "29-demo-receipt-needs-information",
+    "url": "http://127.0.0.1:8794/demo/receipt.html?state=needs-information#id=demo-contribution&token=demo-key-public-example",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J3: request for more information; no reply control in current UI",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/29-demo-receipt-needs-information.png",
+    "snapshot": "screens/29-demo-receipt-needs-information.txt",
+    "capturedAt": "2026-09-15T07:29:26.267Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/receipt.html?state=needs-information#id=demo-contribution&token=demo-key-public-example",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "30-demo-receipt-rejected",
+    "url": "http://127.0.0.1:8794/demo/receipt.html?state=rejected#id=demo-contribution&token=demo-key-public-example",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J3: synthetic rejection and reason",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/30-demo-receipt-rejected.png",
+    "snapshot": "screens/30-demo-receipt-rejected.txt",
+    "capturedAt": "2026-09-15T07:29:26.420Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/receipt.html?state=rejected#id=demo-contribution&token=demo-key-public-example",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "31-demo-receipt-accepted",
+    "url": "http://127.0.0.1:8794/demo/receipt.html?state=accepted#id=demo-contribution&token=demo-key-public-example",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J3: synthetic acceptance and reason",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/31-demo-receipt-accepted.png",
+    "snapshot": "screens/31-demo-receipt-accepted.txt",
+    "capturedAt": "2026-09-15T07:29:26.587Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/receipt.html?state=accepted#id=demo-contribution&token=demo-key-public-example",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "32-demo-receipt-invalid",
+    "url": "http://127.0.0.1:8794/demo/receipt.html#id=demo-contribution&token=wrong",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J3: incorrect receipt key",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/32-demo-receipt-invalid.png",
+    "snapshot": "screens/32-demo-receipt-invalid.txt",
+    "capturedAt": "2026-09-15T07:29:26.753Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/receipt.html#id=demo-contribution&token=wrong",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "33-demo-editorial-denied",
+    "url": "http://127.0.0.1:8794/demo/editorial.html?state=denied",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J4: no editorial role",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/33-demo-editorial-denied.png",
+    "snapshot": "screens/33-demo-editorial-denied.txt",
+    "capturedAt": "2026-09-15T07:29:26.929Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html?state=denied",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "34-demo-contribution-submitted-mobile",
+    "url": "http://127.0.0.1:8794/demo/action.html",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J3: sample citizen submission and generated fixed synthetic receipt",
+    "viewport": {
+      "height": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "screenshot": "screens/34-demo-contribution-submitted-mobile.png",
+    "snapshot": "screens/34-demo-contribution-submitted-mobile.txt",
+    "capturedAt": "2026-09-15T07:29:43.544Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/action.html",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "35-demo-moderation-desktop",
+    "url": "http://127.0.0.1:8794/demo/moderation.html",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J3: simulated editorial decision form for a public-source contribution",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/35-demo-moderation-desktop.png",
+    "snapshot": "screens/35-demo-moderation-desktop.txt",
+    "capturedAt": "2026-09-15T07:29:43.647Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/moderation.html",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "36-demo-moderation-denied",
+    "url": "http://127.0.0.1:8794/demo/moderation.html?state=denied",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J3: no moderator role",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/36-demo-moderation-denied.png",
+    "snapshot": "screens/36-demo-moderation-denied.txt",
+    "capturedAt": "2026-09-15T07:29:43.772Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/moderation.html?state=denied",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "37-demo-editorial-empty",
+    "url": "http://127.0.0.1:8794/demo/editorial.html?state=empty",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J4: no editorial records",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/37-demo-editorial-empty.png",
+    "snapshot": "screens/37-demo-editorial-empty.txt",
+    "capturedAt": "2026-09-15T07:29:43.928Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html?state=empty",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "38-demo-save-unavailable",
+    "url": "http://127.0.0.1:8794/demo/editorial.html?state=unavailable#demo-26-b-22-2026-09-10",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J4: simulated save failure keeps draft reasoning visible",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/38-demo-save-unavailable.png",
+    "snapshot": "screens/38-demo-save-unavailable.txt",
+    "capturedAt": "2026-09-15T07:30:33.928Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html?state=unavailable#demo-26-b-22-2026-09-10",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "39-demo-unsaved-work",
+    "url": "http://127.0.0.1:8794/demo/editorial.html?state=unavailable#demo-26-b-22-2026-09-10",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J4: changing records is blocked while notes are unsaved",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/39-demo-unsaved-work.png",
+    "snapshot": "screens/39-demo-unsaved-work.txt",
+    "capturedAt": "2026-09-15T07:30:34.020Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html?state=unavailable#demo-26-b-22-2026-09-10",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "40-demo-correction-form",
+    "url": "http://127.0.0.1:8794/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J4: current correction form and new-version warning",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/40-demo-correction-form.png",
+    "snapshot": "screens/40-demo-correction-form.txt",
+    "capturedAt": "2026-09-15T07:30:09.588Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "41-demo-correction-saved",
+    "url": "http://127.0.0.1:8794/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "tier": "mirrored-current-ui-synthetic-state",
+    "task": "J4: a simulated new revision waits for fresh independent review",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/41-demo-correction-saved.png",
+    "snapshot": "screens/41-demo-correction-saved.txt",
+    "capturedAt": "2026-09-15T07:30:13.339Z",
+    "replayUrl": "https://pna.md/design-review/2026-09-15/demo/editorial.html#demo-26-b-22-2026-09-10",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "full-page"
+  },
+  {
+    "id": "42-ipre-main-tracker",
+    "url": "https://ipre.md/eu-tracker/ipre_eu_tracker.html",
+    "tier": "live-comparator",
+    "task": "J2 comparator: preparation and annual progress are different measures",
+    "viewport": {
+      "height": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "screenshot": "screens/42-ipre-main-tracker.png",
+    "snapshot": "screens/42-ipre-main-tracker.txt",
+    "capturedAt": "2026-09-15T07:29:24.342Z",
+    "replayUrl": "https://ipre.md/eu-tracker/ipre_eu_tracker.html",
+    "browser": "Brave via CUA; in-app browser used for primary workflow audit",
+    "captureMode": "viewport"
+  }
+]

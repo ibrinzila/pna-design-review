@@ -1,0 +1,202 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - complementary "Orientare":
+    - generic: Programul
+    - generic: Național
+    - generic: Aderare
+    - generic: /
+    - text: eu
+    - paragraph: Republica Moldova
+    - navigation "Explorează programul":
+      - link "Toate acțiunile":
+        - /url: /exploreaza/
+      - paragraph: Ce te interesează?
+      - link "Educație și tineri":
+        - /url: /exploreaza/?tema=educatie
+      - link "Sănătate":
+        - /url: /exploreaza/?tema=sanatate
+      - link "Muncă și afaceri":
+        - /url: /exploreaza/?tema=munca
+      - link "Justiție și drepturi":
+        - /url: /exploreaza/?tema=justitie
+      - link "Mediu și energie":
+        - /url: /exploreaza/?tema=mediu
+      - link "Participare publică":
+        - /url: /exploreaza/?tema=participare
+      - paragraph: Programul complet
+      - link "Capitole și componente":
+        - /url: /capitole/
+      - link "Biblioteca de surse":
+        - /url: /surse/
+      - link "Ediții și corecții":
+        - /url: /istoric/
+  - heading "Capitole și componente" [level=1]
+  - paragraph:
+    - text: 2 779 înregistrări căutabile · 105 documente păstrate. 24 înregistrări au explicații revizuite de un al doilea agent AI; 2 755 nu au încă o explicație revizuită. Indexarea nu înseamnă verificarea conținutului.
+    - link "Acoperire și limite":
+      - /url: /despre/#metodologie
+    - text: .
+  - link "1. Libera circulație a mărfurilor 70 acțiuni · 3 documente":
+    - /url: /capitol/1/
+    - text: 1. Libera circulație a mărfurilor
+    - generic: 70 acțiuni · 3 documente
+  - link "2. Libera circulație a lucrătorilor 41 acțiuni · 3 documente":
+    - /url: /capitol/2/
+    - text: 2. Libera circulație a lucrătorilor
+    - generic: 41 acțiuni · 3 documente
+  - link "3. Dreptul de stabilire și libera prestare a serviciilor 28 acțiuni · 3 documente":
+    - /url: /capitol/3/
+    - text: 3. Dreptul de stabilire și libera prestare a serviciilor
+    - generic: 28 acțiuni · 3 documente
+  - link "4. Libera circulație a capitalurilor 21 acțiuni · 3 documente":
+    - /url: /capitol/4/
+    - text: 4. Libera circulație a capitalurilor
+    - generic: 21 acțiuni · 3 documente
+  - link "5. Achiziții publice 23 acțiuni · 3 documente":
+    - /url: /capitol/5/
+    - text: 5. Achiziții publice
+    - generic: 23 acțiuni · 3 documente
+  - link "6. Dreptul societăților comerciale 20 acțiuni · 3 documente":
+    - /url: /capitol/6/
+    - text: 6. Dreptul societăților comerciale
+    - generic: 20 acțiuni · 3 documente
+  - link "7. Dreptul proprietății intelectuale 29 acțiuni · 3 documente":
+    - /url: /capitol/7/
+    - text: 7. Dreptul proprietății intelectuale
+    - generic: 29 acțiuni · 3 documente
+  - link "8. Politica în domeniul concurenței 85 acțiuni · 3 documente":
+    - /url: /capitol/8/
+    - text: 8. Politica în domeniul concurenței
+    - generic: 85 acțiuni · 3 documente
+  - link "9. Servicii financiare 151 acțiuni · 3 documente":
+    - /url: /capitol/9/
+    - text: 9. Servicii financiare
+    - generic: 151 acțiuni · 3 documente
+  - link "10. Transformarea digitală și mass-media 70 acțiuni · 3 documente":
+    - /url: /capitol/10/
+    - text: 10. Transformarea digitală și mass-media
+    - generic: 70 acțiuni · 3 documente
+  - link "11. Agricultură și dezvoltare rurală 57 acțiuni · 3 documente":
+    - /url: /capitol/11/
+    - text: 11. Agricultură și dezvoltare rurală
+    - generic: 57 acțiuni · 3 documente
+  - link "12. Siguranța alimentară, politica sanitară și fitosanitară 192 acțiuni · 3 documente":
+    - /url: /capitol/12/
+    - text: 12. Siguranța alimentară, politica sanitară și fitosanitară
+    - generic: 192 acțiuni · 3 documente
+  - link "13. Pescuit și acvacultură 13 acțiuni · 3 documente":
+    - /url: /capitol/13/
+    - text: 13. Pescuit și acvacultură
+    - generic: 13 acțiuni · 3 documente
+  - link "14. Politica în domeniul transporturilor 264 acțiuni · 3 documente":
+    - /url: /capitol/14/
+    - text: 14. Politica în domeniul transporturilor
+    - generic: 264 acțiuni · 3 documente
+  - link "15. Energie 59 acțiuni · 3 documente":
+    - /url: /capitol/15/
+    - text: 15. Energie
+    - generic: 59 acțiuni · 3 documente
+  - link "16. Fiscalitate 44 acțiuni · 3 documente":
+    - /url: /capitol/16/
+    - text: 16. Fiscalitate
+    - generic: 44 acțiuni · 3 documente
+  - link "17. Politica economică și monetară 17 acțiuni · 3 documente":
+    - /url: /capitol/17/
+    - text: 17. Politica economică și monetară
+    - generic: 17 acțiuni · 3 documente
+  - link "18. Statistici 160 acțiuni · 3 documente":
+    - /url: /capitol/18/
+    - text: 18. Statistici
+    - generic: 160 acțiuni · 3 documente
+  - link "19. Politica socială și ocuparea forței de muncă 78 acțiuni · 3 documente":
+    - /url: /capitol/19/
+    - text: 19. Politica socială și ocuparea forței de muncă
+    - generic: 78 acțiuni · 3 documente
+  - link "20. Politica industrială și antreprenorială 52 acțiuni · 3 documente":
+    - /url: /capitol/20/
+    - text: 20. Politica industrială și antreprenorială
+    - generic: 52 acțiuni · 3 documente
+  - link "21. Rețele transeuropene 26 acțiuni · 3 documente":
+    - /url: /capitol/21/
+    - text: 21. Rețele transeuropene
+    - generic: 26 acțiuni · 3 documente
+  - link "22. Politica regională și coordonarea instrumentelor structurale 17 acțiuni · 3 documente":
+    - /url: /capitol/22/
+    - text: 22. Politica regională și coordonarea instrumentelor structurale
+    - generic: 17 acțiuni · 3 documente
+  - link "23. Sistem judiciar și drepturi fundamentale 161 acțiuni · 3 documente":
+    - /url: /capitol/23/
+    - text: 23. Sistem judiciar și drepturi fundamentale
+    - generic: 161 acțiuni · 3 documente
+  - link "24. Justiție, libertate și securitate 410 acțiuni · 3 documente":
+    - /url: /capitol/24/
+    - text: 24. Justiție, libertate și securitate
+    - generic: 410 acțiuni · 3 documente
+  - link "25. Știință și cercetare 12 acțiuni · 3 documente":
+    - /url: /capitol/25/
+    - text: 25. Știință și cercetare
+    - generic: 12 acțiuni · 3 documente
+  - link "26. Educație și cultură 94 acțiuni · 3 documente":
+    - /url: /capitol/26/
+    - text: 26. Educație și cultură
+    - generic: 94 acțiuni · 3 documente
+  - link "27. Mediu și schimbări climatice 242 acțiuni · 3 documente":
+    - /url: /capitol/27/
+    - text: 27. Mediu și schimbări climatice
+    - generic: 242 acțiuni · 3 documente
+  - link "28. Protecția consumatorilor și a sănătății 141 acțiuni · 3 documente":
+    - /url: /capitol/28/
+    - text: 28. Protecția consumatorilor și a sănătății
+    - generic: 141 acțiuni · 3 documente
+  - link "29. Uniunea vamală 34 acțiuni · 3 documente":
+    - /url: /capitol/29/
+    - text: 29. Uniunea vamală
+    - generic: 34 acțiuni · 3 documente
+  - link "30. Relații externe 11 acțiuni · 3 documente":
+    - /url: /capitol/30/
+    - text: 30. Relații externe
+    - generic: 11 acțiuni · 3 documente
+  - link "31. Politica externă, de securitate și apărare 16 acțiuni · 3 documente":
+    - /url: /capitol/31/
+    - text: 31. Politica externă, de securitate și apărare
+    - generic: 16 acțiuni · 3 documente
+  - link "32. Control financiar 37 acțiuni · 3 documente":
+    - /url: /capitol/32/
+    - text: 32. Control financiar
+    - generic: 37 acțiuni · 3 documente
+  - link "33. Dispoziții financiare și bugetare 2 acțiuni · 2 documente":
+    - /url: /capitol/33/
+    - text: 33. Dispoziții financiare și bugetare
+    - generic: 2 acțiuni · 2 documente
+  - link "Funcționarea instituțiilor democratice 40 acțiuni · 3 documente":
+    - /url: /capitol/fdi/
+    - text: Funcționarea instituțiilor democratice
+    - generic: 40 acțiuni · 3 documente
+  - link "Reforma administrației publice 62 acțiuni · 3 documente":
+    - /url: /capitol/rap/
+    - text: Reforma administrației publice
+    - generic: 62 acțiuni · 3 documente
+  - link "Criteriul economic 0 acțiuni · 1 documente":
+    - /url: /capitol/economic/
+    - text: Criteriul economic
+    - generic: 0 acțiuni · 1 documente
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026

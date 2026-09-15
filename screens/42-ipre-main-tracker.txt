@@ -1,0 +1,233 @@
+- banner:
+  - heading "EU Accession Tracker" [level=1]
+  - paragraph: Republica Moldova · Pachetul de Extindere 2025
+  - button "RO"
+  - button "EN"
+- generic: 46%
+- generic: pregătire acquis
+- generic: 33 capitole · 6 clustere
+- generic: 13 ▲ crescut
+- generic: 20 ▬ stabil
+- generic: 2023 → 2025
+- generic: Criteriul politic
+- generic: 6 domenii
+- generic: "Nivel mediu: 2.1/5"
+- generic: 2 bun
+- generic: 4 unele
+- generic: parte din Cluster 1
+- generic: Criteriul economic
+- generic: 2 domenii
+- generic: "Nivel mediu: 1.8/5"
+- generic: 1 bun
+- generic: 1 unele
+- generic: evaluare separată de acquis
+- generic: Nivelul de pregătire 2025
+- generic: "4"
+- generic: Nivel timpuriu
+- generic: "17"
+- generic: Parțial pregătit
+- generic: "10"
+- generic: Moderat pregătit
+- generic: "2"
+- generic: Bine pregătit
+- generic: "Progres 2025:"
+- generic: 1 f. bun
+- generic: 14 bun
+- generic: 18 unele
+- generic: — 0 regrese
+- generic: Pregătire medie pe cluster
+- generic: C1
+- generic: Fundamente
+- generic: 2.0/5
+- generic: C2
+- generic: Piața Internă
+- generic: 2.3/5
+- generic: C3
+- generic: Competitivitate și creștere incluzivă
+- generic: 2.6/5
+- generic: C4
+- generic: Agenda verde și conectivitate durabilă
+- generic: 2.0/5
+- generic: C5
+- generic: Resurse, agricultură și coeziune
+- generic: 1.8/5
+- generic: C6
+- generic: Relații externe
+- generic: 3.5/5
+- generic: Calendarul negocierilor de aderare
+- generic: "2023"
+- generic: Prima evaluare
+- generic: "2024"
+- generic: Deschidere negocieri
+- generic: "2025"
+- generic: Screening finalizat
+- generic: 2026**
+- generic: Benchmarks informale
+- generic: "2027"
+- generic: Negocieri în curs
+- generic: 2028*
+- generic: Închidere provizorie
+- generic: "** Comisia Europeană a prezentat Republicii Moldova benchmarks-urile informal pe toate clusterele și capitolele, ca parte a mecanismului de front-loading. Sesiuni tehnice explicative au loc în paralel cu Moldova și Ucraina. Deschiderea oficială a negocierilor pe clustere necesită o decizie a Consiliului UE, care este întârziată deoarece statele membre doresc să decidă simultan pentru Moldova și Ucraina."
+- generic: "* Conform calendarului de negocieri al Guvernului Republicii Moldova"
+- generic: Criteriile de aderare
+- button "CP Criteriul politic 6 domenii":
+  - generic: CP
+  - generic: Criteriul politic
+  - generic: 6 domenii
+- paragraph: Parte din Clusterul 1 (Fundamente). Nu reprezintă capitole de acquis, dar progresul în aceste domenii determină ritmul general al negocierilor.
+- generic: "2023"
+- generic: "2024"
+- generic: "2025"
+- generic: DEM
+- generic: Democrația (instituții democratice)
+- generic: —
+- generic: Progres bun
+- generic: —
+- generic: Unele progrese
+- generic: —
+- generic: Unele progrese
+- generic: RAP
+- generic: Reforma administrației publice
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Unele progrese
+- generic: 23-J
+- generic: Justiția
+- generic: "2"
+- generic: Progres bun
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Progres bun
+- generic: 23-C
+- generic: Lupta împotriva corupției
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Unele progrese
+- generic: 23-F
+- generic: Drepturi fundamentale
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Unele progrese
+- generic: 23-E
+- generic: Libertatea de exprimare
+- generic: "2"
+- generic: Unele progrese
+- generic: 2+
+- generic: Unele progrese
+- generic: 2+
+- generic: Progres bun
+- button "CE Criteriul economic 2 domenii":
+  - generic: CE
+  - generic: Criteriul economic
+  - generic: 2 domenii
+- generic: Capitolele acquis-ului (33) în 6 clustere de negociere
+- button "C1 Fundamente 5 capitole":
+  - generic: C1
+  - generic: Fundamente
+  - generic: 5 capitole
+- paragraph: Clusterul-cheie al negocierilor. Include criteriile politice (vezi mai sus) și capitolele 23, 24, 5, 18, 32. Controlul financiar a avansat de la nivel timpuriu la parțial.
+- generic: "2023"
+- generic: "2024"
+- generic: "2025"
+- generic: C.23
+- generic: Justiția și drepturile fundamentale
+- generic: "2"
+- generic: Progres bun
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Unele progrese
+- generic: C.24
+- generic: Justiție, libertate și securitate
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Unele progrese
+- generic: C.5
+- generic: Achiziții publice
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Unele progrese
+- generic: "2"
+- generic: Unele progrese
+- generic: C.18
+- generic: Statistica
+- generic: "2"
+- generic: Progres bun
+- generic: "2"
+- generic: Progres bun
+- generic: "2"
+- generic: Progres bun
+- generic: C.32
+- generic: Control financiar
+- text: ▲ +1 nivel
+- generic: "1"
+- generic: Unele progrese
+- generic: "1"
+- generic: Unele progrese
+- generic: "2"
+- generic: Progres bun
+- button "C2 Piața Internă 9 capitole":
+  - generic: C2
+  - generic: Piața Internă
+  - generic: 9 capitole
+- button "C3 Competitivitate și creștere incluzivă 8 capitole":
+  - generic: C3
+  - generic: Competitivitate și creștere incluzivă
+  - generic: 8 capitole
+- button "C4 Agenda verde și conectivitate durabilă 4 capitole":
+  - generic: C4
+  - generic: Agenda verde și conectivitate durabilă
+  - generic: 4 capitole
+- button "C5 Resurse, agricultură și coeziune 5 capitole":
+  - generic: C5
+  - generic: Resurse, agricultură și coeziune
+  - generic: 5 capitole
+- button "C6 Relații externe 2 capitole":
+  - generic: C6
+  - generic: Relații externe
+  - generic: 2 capitole
+- link "Recomandările Comisiei Europene pentru 2026 →":
+  - /url: ipre_eu_recs_2026.html
+- generic: Legendă
+- generic: NIVEL DE PREGĂTIRE (scara 1-4)
+- generic: "1"
+- generic: Nivel timpuriu
+- generic: "2"
+- generic: Parțial pregătit
+- generic: "3"
+- generic: Moderat pregătit
+- generic: "4"
+- generic: Bine pregătit
+- generic: "+ indică nivel intermediar (ex: 2+ = între parțial și moderat)"
+- generic: NIVEL DE PROGRES (anual)
+- generic: Fără progres
+- generic: Progres limitat
+- generic: Unele progrese
+- generic: Progres bun
+- generic: Progres f. bun
+- generic: Surse
+- link "Raportul Comisiei Europene 2025":
+  - /url: https://enlargement.ec.europa.eu/moldova-report-2025_en
+- link "Raportul Comisiei Europene 2024":
+  - /url: https://enlargement.ec.europa.eu/moldova-report-2024_en
+- link "Raportul Comisiei Europene 2023":
+  - /url: https://enlargement.ec.europa.eu/moldova-report-2023_en
+- text: © 2026
+- link "IPRE":
+  - /url: https://ipre.md
+- text: · Institute for European Policies and Reforms
+- generic: Această pagină interactivă a fost elaborată cu sprijinul inteligenței artificiale.

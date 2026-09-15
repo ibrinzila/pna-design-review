@@ -1,0 +1,742 @@
+- link "Sari la conținut":
+  - /url: "#main"
+- banner:
+  - link "pna/eu — pagina principală":
+    - /url: /
+    - text: pna
+    - generic: /
+    - text: eu
+  - navigation "Navigare principală":
+    - link "Explorează":
+      - /url: /exploreaza/
+    - link "Surse":
+      - /url: /surse/
+    - link "Despre":
+      - /url: /despre/
+  - generic: pna.md · ediție documentată
+- main:
+  - complementary "Orientare":
+    - generic: Programul
+    - generic: Național
+    - generic: Aderare
+    - generic: /
+    - text: eu
+    - paragraph: Republica Moldova
+    - navigation "Explorează programul":
+      - link "Toate acțiunile":
+        - /url: /exploreaza/
+      - paragraph: Ce te interesează?
+      - link "Educație și tineri":
+        - /url: /exploreaza/?tema=educatie
+      - link "Sănătate":
+        - /url: /exploreaza/?tema=sanatate
+      - link "Muncă și afaceri":
+        - /url: /exploreaza/?tema=munca
+      - link "Justiție și drepturi":
+        - /url: /exploreaza/?tema=justitie
+      - link "Mediu și energie":
+        - /url: /exploreaza/?tema=mediu
+      - link "Participare publică":
+        - /url: /exploreaza/?tema=participare
+      - paragraph: Programul complet
+      - link "Capitole și componente":
+        - /url: /capitole/
+      - link "Biblioteca de surse":
+        - /url: /surse/
+      - link "Ediții și corecții":
+        - /url: /istoric/
+  - link "← Capitole":
+    - /url: /capitole/
+  - heading "26. Educație și cultură" [level=1]
+  - heading "Documente și context" [level=2]
+  - article:
+    - heading "Partea narativă Capitolul 26" [level=3]
+    - paragraph: 26. Educație și cultură
+    - link "Text, pagini și proveniență":
+      - /url: /document/26-n/
+    - link "Copia PDF":
+      - /url: /sources/26-n-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/partea_narativa_cap.26_educatie_si_cultura_0.pdf
+  - article:
+    - heading "Anexa A Capitol 26" [level=3]
+    - paragraph: 26. Educație și cultură
+    - link "Text, pagini și proveniență":
+      - /url: /document/26-a/
+    - link "Copia PDF":
+      - /url: /sources/26-a-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_a_cap.26_educatie_si_cultura_2.pdf
+  - article:
+    - heading "Anexa B Capitol 26" [level=3]
+    - paragraph: 26. Educație și cultură
+    - link "Text, pagini și proveniență":
+      - /url: /document/26-b/
+    - link "Copia PDF":
+      - /url: /sources/26-b-2026-09-10.pdf
+    - link "Sursa oficială ↗":
+      - /url: https://old.gov.md/sites/default/files/anexa_b_cap.26_educatie_si_cultura_2.pdf
+  - heading "Acțiuni din document" [level=2]
+  - 'link "26-A · ACȚIUNEA 1 Proiect Hotărâre de Guvern cu privire la aprobarea Programului de implementare a Strategiei de dezvoltare Educația 2030 pentru perioada 2026-2030 Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-1-2026-09-10/
+    - text: 26-A · ACȚIUNEA 1
+    - heading "Proiect Hotărâre de Guvern cu privire la aprobarea Programului de implementare a Strategiei de dezvoltare Educația 2030 pentru perioada 2026-2030" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 2 Proiect de Lege pentru modificarea Codului Educației al Republicii Moldova nr.152/2014 Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-2-2026-09-10/
+    - text: 26-A · ACȚIUNEA 2
+    - heading "Proiect de Lege pentru modificarea Codului Educației al Republicii Moldova nr.152/2014" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 3 Proiect de Ordin al ministrului pentru aprobarea noilor Curricula pentru învățământul general Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-3-2026-09-10/
+    - text: 26-A · ACȚIUNEA 3
+    - heading "Proiect de Ordin al ministrului pentru aprobarea noilor Curricula pentru învățământul general" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 4 Proiect de Ordin al ministrului pentru aprobarea Programului de internaționalizare a învățămîntului superior pentru anii 2026-2028 Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-4-2026-09-10/
+    - text: 26-A · ACȚIUNEA 4
+    - heading "Proiect de Ordin al ministrului pentru aprobarea Programului de internaționalizare a învățămîntului superior pentru anii 2026-2028" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 5 Proiect Hotărâre de Guvern privind modificarea Hotărârii de Guvern Nr. 56/2014 pentru aprobarea Regulamentului-cadru cu privire la mobilitatea academică în învăţămîntul superior Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-5-2026-09-10/
+    - text: 26-A · ACȚIUNEA 5
+    - heading "Proiect Hotărâre de Guvern privind modificarea Hotărârii de Guvern Nr. 56/2014 pentru aprobarea Regulamentului-cadru cu privire la mobilitatea academică în învăţămîntul superior" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 6 Proiect Hotărâre de Guvern pentru majorarea burselor în cadrul Programului de mobilitate CEEPUS IV Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-6-2026-09-10/
+    - text: 26-A · ACȚIUNEA 6
+    - heading "Proiect Hotărâre de Guvern pentru majorarea burselor în cadrul Programului de mobilitate CEEPUS IV" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 7 Proiect Hotărâre de Guvern pentru aprobarea Programului național de învățare a limbii române pentru anii 2026-2029 Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-7-2026-09-10/
+    - text: 26-A · ACȚIUNEA 7
+    - heading "Proiect Hotărâre de Guvern pentru aprobarea Programului național de învățare a limbii române pentru anii 2026-2029" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 8 Proiect Hotărâre de Guvern cu privire la aprobarea Conceptului Sistemului Informațional e-admitere în învățământul general și a Regulamentului privind modul de funcționare și utilizare a sistemului Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-8-2026-09-10/
+    - text: 26-A · ACȚIUNEA 8
+    - heading "Proiect Hotărâre de Guvern cu privire la aprobarea Conceptului Sistemului Informațional e-admitere în învățământul general și a Regulamentului privind modul de funcționare și utilizare a sistemului" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 9 Proiect Hotărâre de Guvern cu privire la aprobarea Conceptului și Regulamentului privind Sistemul Informațional de Management al Datelor în Domeniul Educației Incluzive (SIMDDEI) Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-9-2026-09-10/
+    - text: 26-A · ACȚIUNEA 9
+    - heading "Proiect Hotărâre de Guvern cu privire la aprobarea Conceptului și Regulamentului privind Sistemul Informațional de Management al Datelor în Domeniul Educației Incluzive (SIMDDEI)" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 10 Proiect Hotărâre de Guvern cu privire la dezvoltarea Conceptului Sistemului Informațional Platforma națională de resurse deschise în educație Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-10-2026-09-10/
+    - text: 26-A · ACȚIUNEA 10
+    - heading "Proiect Hotărâre de Guvern cu privire la dezvoltarea Conceptului Sistemului Informațional Platforma națională de resurse deschise în educație" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 11 Proiect Hotărâre de Guvern cu privire la modificarea Hotărârii de Guvern Nr. 868/2014 privind finanțarea în bază de cost standard per elev în instituțiile de învățământ primar și secundar general din subordinea autorităților publice locale de nivelul al doilea Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-11-2026-09-10/
+    - text: 26-A · ACȚIUNEA 11
+    - heading "Proiect Hotărâre de Guvern cu privire la modificarea Hotărârii de Guvern Nr. 868/2014 privind finanțarea în bază de cost standard per elev în instituțiile de învățământ primar și secundar general din subordinea autorităților publice locale de nivelul al doilea" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 12 Proiect de Ordin al ministrului privind aprobarea Metodologiei de implementare a educației incluzive în IPT Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-12-2026-09-10/
+    - text: 26-A · ACȚIUNEA 12
+    - heading "Proiect de Ordin al ministrului privind aprobarea Metodologiei de implementare a educației incluzive în IPT" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 13 Proiect de Ordin al ministrului pentru aprobarea Conceptului de educație pentru dezvoltare durabilă Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-13-2026-09-10/
+    - text: 26-A · ACȚIUNEA 13
+    - heading "Proiect de Ordin al ministrului pentru aprobarea Conceptului de educație pentru dezvoltare durabilă" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 14 Proiect Hotărâre de Guvern pentru actualizarea metodologiei de evaluare externă a calității în vederea autorizării de funcționare provizorie și acreditarii programelor de studii prin integrarea principiului integrității Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-14-2026-09-10/
+    - text: 26-A · ACȚIUNEA 14
+    - heading "Proiect Hotărâre de Guvern pentru actualizarea metodologiei de evaluare externă a calității în vederea autorizării de funcționare provizorie și acreditarii programelor de studii prin integrarea principiului integrității" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 15 Proiect Hotărâre de Guvern pentru modificarea Hotărârii de Guvern Nr. 681/2025 privind completarea SIMÎS cu componenta de urmărire a traseului educațional al absolvenților. Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-15-2026-09-10/
+    - text: 26-A · ACȚIUNEA 15
+    - heading "Proiect Hotărâre de Guvern pentru modificarea Hotărârii de Guvern Nr. 681/2025 privind completarea SIMÎS cu componenta de urmărire a traseului educațional al absolvenților." [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 16 Proiect Hotărâre de Guvern cu privire la aprobarea Regulamentului de recunoaștere și echivalare a actelor de studii și calificărilor obținute în diferite contexte Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-16-2026-09-10/
+    - text: 26-A · ACȚIUNEA 16
+    - heading "Proiect Hotărâre de Guvern cu privire la aprobarea Regulamentului de recunoaștere și echivalare a actelor de studii și calificărilor obținute în diferite contexte" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 17 Proiect Hotărâre de Guvern pentru modificarea Hotărârii de Guvern Nr. 504/2017 cu privire la aprobarea Regulamentului cu privire la studiile străinilor în instituțiile de învățământ din Republica Moldova Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-17-2026-09-10/
+    - text: 26-A · ACȚIUNEA 17
+    - heading "Proiect Hotărâre de Guvern pentru modificarea Hotărârii de Guvern Nr. 504/2017 cu privire la aprobarea Regulamentului cu privire la studiile străinilor în instituțiile de învățământ din Republica Moldova" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 18 Proiect de Ordin cu privire la modificarea Regulamentului de organizare şi desfășurare a admiterii la programele de formare profesională tehnică Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-18-2026-09-10/
+    - text: 26-A · ACȚIUNEA 18
+    - heading "Proiect de Ordin cu privire la modificarea Regulamentului de organizare şi desfășurare a admiterii la programele de formare profesională tehnică" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 19 Proiecte de Ordine ale ministrului pentru promovarea instrumentelor Europass Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-19-2026-09-10/
+    - text: 26-A · ACȚIUNEA 19
+    - heading "Proiecte de Ordine ale ministrului pentru promovarea instrumentelor Europass" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 20 Proiect Hotărâre de Guvern pentru modificarea Hotărârii de Guvern Nr. 343/2020 cu privire la aprobarea Metodologiei de finanțare bugetară a instituțiilor publice de învățământ superior Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-20-2026-09-10/
+    - text: 26-A · ACȚIUNEA 20
+    - heading "Proiect Hotărâre de Guvern pentru modificarea Hotărârii de Guvern Nr. 343/2020 cu privire la aprobarea Metodologiei de finanțare bugetară a instituțiilor publice de învățământ superior" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 21 Proiect Hotărâre de Guvern pentru aprobarea Programului de implementare a Strategiei Tineret 2030 pentru perioada 2027-2030 Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-21-2026-09-10/
+    - text: 26-A · ACȚIUNEA 21
+    - heading "Proiect Hotărâre de Guvern pentru aprobarea Programului de implementare a Strategiei Tineret 2030 pentru perioada 2027-2030" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 22 Proiect de Lege cu privire la activitatea de voluntariat Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-22-2026-09-10/
+    - text: 26-A · ACȚIUNEA 22
+    - heading "Proiect de Lege cu privire la activitatea de voluntariat" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 23 Proiect Hotărâre de Guvern pentru aprobarea Programului de implementare a Strategiei Sport 2030 pentru perioada 2026-2028 Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-23-2026-09-10/
+    - text: 26-A · ACȚIUNEA 23
+    - heading "Proiect Hotărâre de Guvern pentru aprobarea Programului de implementare a Strategiei Sport 2030 pentru perioada 2026-2028" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 24 Proiect Hotărâre de Guvern cu privire la aprobarea Regulamentului de funcționare a Sistemului Informațional de Management al Datelor din domeniul Sport. Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-24-2026-09-10/
+    - text: 26-A · ACȚIUNEA 24
+    - heading "Proiect Hotărâre de Guvern cu privire la aprobarea Regulamentului de funcționare a Sistemului Informațional de Management al Datelor din domeniul Sport." [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 25 Proiect de Ordin al ministrului cu privire la organizarea și funcționarea cluburilor sportive Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2025"':
+    - /url: /actiune/26-a-25-2026-09-10/
+    - text: 26-A · ACȚIUNEA 25
+    - heading "Proiect de Ordin al ministrului cu privire la organizarea și funcționarea cluburilor sportive" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 26 Proiect de Ordin al ministrului pentru aprobarea Regulamentului de activitate a federațiilor sportive naționale Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: 2026"':
+    - /url: /actiune/26-a-26-2026-09-10/
+    - text: 26-A · ACȚIUNEA 26
+    - heading "Proiect de Ordin al ministrului pentru aprobarea Regulamentului de activitate a federațiilor sportive naționale" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 27 Proiect de Hotărâre de Guvern cu privire la aprobarea Programului de implementare, pentru anii 2026-2030, a Strategiei naționale pentru cultură și patrimoniu 2025 - 2035 Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2025"':
+    - /url: /actiune/26-a-27-2026-09-10/
+    - text: 26-A · ACȚIUNEA 27
+    - heading "Proiect de Hotărâre de Guvern cu privire la aprobarea Programului de implementare, pentru anii 2026-2030, a Strategiei naționale pentru cultură și patrimoniu 2025 - 2035" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 28 Proiect de Lege privind aderarea la Fondul cultural european „Eurimages” Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-28-2026-09-10/
+    - text: 26-A · ACȚIUNEA 28
+    - heading "Proiect de Lege privind aderarea la Fondul cultural european „Eurimages”" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 29 Proiect de Hotărâre de Guvern cu privire la aprobarea Metodologiei de stabilire și plată a subvențiilor din bugetul de stat pentru teatrele, circurile și organizațiile concertistice de drept public Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2025"':
+    - /url: /actiune/26-a-29-2026-09-10/
+    - text: 26-A · ACȚIUNEA 29
+    - heading "Proiect de Hotărâre de Guvern cu privire la aprobarea Metodologiei de stabilire și plată a subvențiilor din bugetul de stat pentru teatrele, circurile și organizațiile concertistice de drept public" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 30 Proiect de Ordin al Ministrului cu privire la aprobarea Registrului artiștilor liber – profesioniști Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-30-2026-09-10/
+    - text: 26-A · ACȚIUNEA 30
+    - heading "Proiect de Ordin al Ministrului cu privire la aprobarea Registrului artiștilor liber – profesioniști" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 31 Proiect de Hotărâre de Guvern privind procedurile de acordare a indemnizațiilor de merit și Regulamentul de funcționare a Comisiei Naționale pentru acordarea indemnizației de merit Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-31-2026-09-10/
+    - text: 26-A · ACȚIUNEA 31
+    - heading "Proiect de Hotărâre de Guvern privind procedurile de acordare a indemnizațiilor de merit și Regulamentul de funcționare a Comisiei Naționale pentru acordarea indemnizației de merit" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 32 Proiect de lege privind protejarea monumentelor istorice Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-32-2026-09-10/
+    - text: 26-A · ACȚIUNEA 32
+    - heading "Proiect de lege privind protejarea monumentelor istorice" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 33 Proiect de lege privind crearea Fondului național al patrimoniului cultural Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-33-2026-09-10/
+    - text: 26-A · ACȚIUNEA 33
+    - heading "Proiect de lege privind crearea Fondului național al patrimoniului cultural" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 34 Proiect de Hotărâre de Guvern cu privire la organizarea și funcționarea Institutului Patrimoniului Cultural Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-34-2026-09-10/
+    - text: 26-A · ACȚIUNEA 34
+    - heading "Proiect de Hotărâre de Guvern cu privire la organizarea și funcționarea Institutului Patrimoniului Cultural" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 35 Proiect de Hotărâre de Guvern cu privire la organizarea și funcționarea Agenției de Inspectare a Monumentelor Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2025"':
+    - /url: /actiune/26-a-35-2026-09-10/
+    - text: 26-A · ACȚIUNEA 35
+    - heading "Proiect de Hotărâre de Guvern cu privire la organizarea și funcționarea Agenției de Inspectare a Monumentelor" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 36 Proiect de Ordin privind procedura de furnizare a informațiilor de interes public deținute de către Agenția de Inspectare și Restaurare a Monumentelor Document disponibil · explicație în așteptare AIRM - Agenţia de Inspectare și Restaurare a Monumentelor Termen: 2025"':
+    - /url: /actiune/26-a-36-2026-09-10/
+    - text: 26-A · ACȚIUNEA 36
+    - heading "Proiect de Ordin privind procedura de furnizare a informațiilor de interes public deținute de către Agenția de Inspectare și Restaurare a Monumentelor" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: AIRM - Agenţia de Inspectare și Restaurare a Monumentelor
+    - generic: "Termen: 2025"
+  - 'link "26-A · ACȚIUNEA 37 Proiect de Hotărâre de Guvern pentru modificarea Hotărârii de Guvern nr. 846/2015 privind punerea în aplicare a prevederilor Legii nr. 116/2014 cinematografiei (Regulamentul de finanțare al Fondului cinematografiei) Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-37-2026-09-10/
+    - text: 26-A · ACȚIUNEA 37
+    - heading "Proiect de Hotărâre de Guvern pentru modificarea Hotărârii de Guvern nr. 846/2015 privind punerea în aplicare a prevederilor Legii nr. 116/2014 cinematografiei (Regulamentul de finanțare al Fondului cinematografiei)" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 38 Proiect de Lege privind Statutul omului de creație Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-38-2026-09-10/
+    - text: 26-A · ACȚIUNEA 38
+    - heading "Proiect de Lege privind Statutul omului de creație" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 39 Proiect de Hotărâre de Guvern pentru modificarea Hotărârii de Guvern Nr. 392/2024 cu referire la aprobarea Regulamentul cu privire la modul de calcul, repartizare, utilizare și evidență a transferurilor cu destinație specială pentru susținerea tinerilor specialiști din domeniul culturii Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-39-2026-09-10/
+    - text: 26-A · ACȚIUNEA 39
+    - heading "Proiect de Hotărâre de Guvern pentru modificarea Hotărârii de Guvern Nr. 392/2024 cu referire la aprobarea Regulamentul cu privire la modul de calcul, repartizare, utilizare și evidență a transferurilor cu destinație specială pentru susținerea tinerilor specialiști din domeniul culturii" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 40 Proiect de Hotărâre de Guvern pentru aprobarea programelor de susținere a domeniilor arte, educație prin artă, studii și analize, inclusiv a activităților de formare profesională continuă din domeniul culturii (Fondul național al culturii) Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-40-2026-09-10/
+    - text: 26-A · ACȚIUNEA 40
+    - heading "Proiect de Hotărâre de Guvern pentru aprobarea programelor de susținere a domeniilor arte, educație prin artă, studii și analize, inclusiv a activităților de formare profesională continuă din domeniul culturii (Fondul național al culturii)" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 41 Proiect de Hotărâre de Guvern cu privire la aprobarea Conceptului Sistemului Informațional de interoperabilitate a bazelor de date în domeniul bunurilor culturale mobile. Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-41-2026-09-10/
+    - text: 26-A · ACȚIUNEA 41
+    - heading "Proiect de Hotărâre de Guvern cu privire la aprobarea Conceptului Sistemului Informațional de interoperabilitate a bazelor de date în domeniul bunurilor culturale mobile." [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-A · ACȚIUNEA 42 Proiect de Ordin al Ministrului pentru aprobarea Ghidului de dezvoltare a rutelor culturale la nivel european Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: 2026"':
+    - /url: /actiune/26-a-42-2026-09-10/
+    - text: 26-A · ACȚIUNEA 42
+    - heading "Proiect de Ordin al Ministrului pentru aprobarea Ghidului de dezvoltare a rutelor culturale la nivel european" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: 2026"
+  - 'link "26-B · ACȚIUNEA 1 Consolidarea participarii funcționarilor Ministerului Educației și Cercetării în grupurile de lucru în cadrul strategic al Spațiului European al Educației și alte structuri europene și internaționale. Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-1-2026-09-10/
+    - text: 26-B · ACȚIUNEA 1
+    - heading "Consolidarea participarii funcționarilor Ministerului Educației și Cercetării în grupurile de lucru în cadrul strategic al Spațiului European al Educației și alte structuri europene și internaționale." [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 2 Fortificarea resursei umane din învățământul general și ÎPT Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-2-2026-09-10/
+    - text: 26-B · ACȚIUNEA 2
+    - heading "Fortificarea resursei umane din învățământul general și ÎPT" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 3 Modernizarea serviciilor de educație timpurie prin renovări și dotari a instituțiilor de educație timpurie (IET) pentru creșterea accesului la educație de calitate pentru copii Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Decembrie 2025"':
+    - /url: /actiune/26-b-3-2026-09-10/
+    - text: 26-B · ACȚIUNEA 3
+    - heading "Modernizarea serviciilor de educație timpurie prin renovări și dotari a instituțiilor de educație timpurie (IET) pentru creșterea accesului la educație de calitate pentru copii" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2025"
+  - 'link "26-B · ACȚIUNEA 4 Renovarea și dotarea școlilor-model Explicație revizuită de AI MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-4-2026-09-10/
+    - text: 26-B · ACȚIUNEA 4
+    - heading "Renovarea și dotarea școlilor-model" [level=3]
+    - paragraph: Explicație revizuită de AI
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 5 Studierea limbii române, inclusiv pentru adulți Explicație revizuită de AI MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026-2029"':
+    - /url: /actiune/26-b-5-2026-09-10/
+    - text: 26-B · ACȚIUNEA 5
+    - heading "Studierea limbii române, inclusiv pentru adulți" [level=3]
+    - paragraph: Explicație revizuită de AI
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026-2029"
+  - 'link "26-B · ACȚIUNEA 6 Creșterea numărului de elevi în învățământul profesional tehnic secundar dual Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Octombrie 2026-2027"':
+    - /url: /actiune/26-b-6-2026-09-10/
+    - text: 26-B · ACȚIUNEA 6
+    - heading "Creșterea numărului de elevi în învățământul profesional tehnic secundar dual" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Octombrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 7 Dezvoltarea și aprobarea de programe/curricule de ÎPT privind tranziția ecologică Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026"':
+    - /url: /actiune/26-b-7-2026-09-10/
+    - text: 26-B · ACȚIUNEA 7
+    - heading "Dezvoltarea și aprobarea de programe/curricule de ÎPT privind tranziția ecologică" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026"
+  - 'link "26-B · ACȚIUNEA 8 Dezvoltarea infrastructurii în Învățământul Profesional Tehnic Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-8-2026-09-10/
+    - text: 26-B · ACȚIUNEA 8
+    - heading "Dezvoltarea infrastructurii în Învățământul Profesional Tehnic" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 9 Dezvoltarea și implementarea de noi programe de formare profesională a adulților în bază de microcalificări în corespundere cu piața muncii Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-9-2026-09-10/
+    - text: 26-B · ACȚIUNEA 9
+    - heading "Dezvoltarea și implementarea de noi programe de formare profesională a adulților în bază de microcalificări în corespundere cu piața muncii" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 10 Dezvoltarea și ajustarea cadrului normativ secundar pentru recunoașterea și echivalarea perioadelor de studii și a calificărilor obținute în străinătate la prevederile Convenției Globale și altor tratate internaționale la care Republica Moldova este parte Document disponibil · explicație în așteptare MEC – Ministerul Educației ș i C e r c e t ă r i i Termen: Octombrie 2026"':
+    - /url: /actiune/26-b-10-2026-09-10/
+    - text: 26-B · ACȚIUNEA 10
+    - heading "Dezvoltarea și ajustarea cadrului normativ secundar pentru recunoașterea și echivalarea perioadelor de studii și a calificărilor obținute în străinătate la prevederile Convenției Globale și altor tratate internaționale la care Republica Moldova este parte" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației ș i C e r c e t ă r i i
+    - generic: "Termen: Octombrie 2026"
+  - 'link "26-B · ACȚIUNEA 11 Un sistem pentru recunoașterea calificărilor obținute în străinătate Explicație revizuită de AI MEC – Ministerul Educației și Cercetării Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-11-2026-09-10/
+    - text: 26-B · ACȚIUNEA 11
+    - heading "Un sistem pentru recunoașterea calificărilor obținute în străinătate" [level=3]
+    - paragraph: Explicație revizuită de AI
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 12 Implementarea măsurilor preparatorii pentru asocierea la Programul Erasmus+ Document disponibil · explicație în așteptare Ministerul Educației și Cercetării Termen: Decembrie 2026-2029"':
+    - /url: /actiune/26-b-12-2026-09-10/
+    - text: 26-B · ACȚIUNEA 12
+    - heading "Implementarea măsurilor preparatorii pentru asocierea la Programul Erasmus+" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026-2029"
+  - 'link "26-B · ACȚIUNEA 13 Acreditarea internațională a programelor de doctorat Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Iunie 2027"':
+    - /url: /actiune/26-b-13-2026-09-10/
+    - text: 26-B · ACȚIUNEA 13
+    - heading "Acreditarea internațională a programelor de doctorat" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Iunie 2027"
+  - 'link "26-B · ACȚIUNEA 14 Implementarea măsurilor anticorupție și antifraudă în universitățile din Moldova Document disponibil · explicație în așteptare Ministerul Educației și Cercetării Termen: Iunie 2026"':
+    - /url: /actiune/26-b-14-2026-09-10/
+    - text: 26-B · ACȚIUNEA 14
+    - heading "Implementarea măsurilor anticorupție și antifraudă în universitățile din Moldova" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: Ministerul Educației și Cercetării
+    - generic: "Termen: Iunie 2026"
+  - 'link "26-B · ACȚIUNEA 15 Implementarea sistemelor informaționale în Învățământul Superior Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-15-2026-09-10/
+    - text: 26-B · ACȚIUNEA 15
+    - heading "Implementarea sistemelor informaționale în Învățământul Superior" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 16 Integrarea dimensiunii de gen incluziune în formarea cadrelor didactice din învățământul profesional tehnic Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-16-2026-09-10/
+    - text: 26-B · ACȚIUNEA 16
+    - heading "Integrarea dimensiunii de gen incluziune în formarea cadrelor didactice din învățământul profesional tehnic" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 17 Organizarea la nivel național a evenimentelor pentru promovarea sportului pentru toți și a modului sănătos de viață Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-17-2026-09-10/
+    - text: 26-B · ACȚIUNEA 17
+    - heading "Organizarea la nivel național a evenimentelor pentru promovarea sportului pentru toți și a modului sănătos de viață" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 18 Operaționalizarea Platformei Naționale de Integritate în Sport Document disponibil · explicație în așteptare ANAD- Agenţia Naţională Anti-Doping Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-18-2026-09-10/
+    - text: 26-B · ACȚIUNEA 18
+    - heading "Operaționalizarea Platformei Naționale de Integritate în Sport" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: ANAD- Agenţia Naţională Anti-Doping
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 19 Realizarea Programului de implementare a Strategiei Tineret 2030 pentru anii 2023-2026 Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026"':
+    - /url: /actiune/26-b-19-2026-09-10/
+    - text: 26-B · ACȚIUNEA 19
+    - heading "Realizarea Programului de implementare a Strategiei Tineret 2030 pentru anii 2023-2026" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026"
+  - 'link "26-B · ACȚIUNEA 20 Dezvoltarea și implementarea Foii de parcurs cu privire la Agenda Europeană pentru Lucru de Tineret Document disponibil · explicație în așteptare MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-20-2026-09-10/
+    - text: 26-B · ACȚIUNEA 20
+    - heading "Dezvoltarea și implementarea Foii de parcurs cu privire la Agenda Europeană pentru Lucru de Tineret" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 21 Reguli și instrumente pentru voluntariat Explicație revizuită de AI MEC – Ministerul Educației și Cercetării Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-21-2026-09-10/
+    - text: 26-B · ACȚIUNEA 21
+    - heading "Reguli și instrumente pentru voluntariat" [level=3]
+    - paragraph: Explicație revizuită de AI
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 22 Dezvoltarea centrelor de tineret Explicație revizuită de AI MEC – Ministerul Educației și Cercetării Termen: Mai 2026-2027"':
+    - /url: /actiune/26-b-22-2026-09-10/
+    - text: 26-B · ACȚIUNEA 22
+    - heading "Dezvoltarea centrelor de tineret" [level=3]
+    - paragraph: Explicație revizuită de AI
+    - generic: MEC – Ministerul Educației și Cercetării
+    - generic: "Termen: Mai 2026-2027"
+  - 'link "26-B · ACȚIUNEA 23 Implementarea programelor de traducere, editare a cărții și revistelor culturale Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-23-2026-09-10/
+    - text: 26-B · ACȚIUNEA 23
+    - heading "Implementarea programelor de traducere, editare a cărții și revistelor culturale" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 24 Implementarea programelor de dezvoltare culturală locală Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Noiembrie 2026-2027"':
+    - /url: /actiune/26-b-24-2026-09-10/
+    - text: 26-B · ACȚIUNEA 24
+    - heading "Implementarea programelor de dezvoltare culturală locală" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Noiembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 25 Implementarea programului de sprijin pentru organizațiile necomerciale în promovarea și realizarea proiectelor culturale, inclusiv pentru reprezentanții diasporei Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-25-2026-09-10/
+    - text: 26-B · ACȚIUNEA 25
+    - heading "Implementarea programului de sprijin pentru organizațiile necomerciale în promovarea și realizarea proiectelor culturale, inclusiv pentru reprezentanții diasporei" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 26 Susținerea sectorului independent prin parteneriate de cooperare Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-26-2026-09-10/
+    - text: 26-B · ACȚIUNEA 26
+    - heading "Susținerea sectorului independent prin parteneriate de cooperare" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 27 Susținerea tinerilor specialiști din domeniul culturii Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-27-2026-09-10/
+    - text: 26-B · ACȚIUNEA 27
+    - heading "Susținerea tinerilor specialiști din domeniul culturii" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 28 Integrarea centrelor de excelență și inovații din sectorul industriilor creative la rețeaua europeană European Creative Hubs Network pentru programe de mobilitate și dezvoltare creativă Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-28-2026-09-10/
+    - text: 26-B · ACȚIUNEA 28
+    - heading "Integrarea centrelor de excelență și inovații din sectorul industriilor creative la rețeaua europeană European Creative Hubs Network pentru programe de mobilitate și dezvoltare creativă" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 29 Dezvoltarea ecosistemului industriilor creative din Republica Moldova Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Septembrie 2026-2027"':
+    - /url: /actiune/26-b-29-2026-09-10/
+    - text: 26-B · ACȚIUNEA 29
+    - heading "Dezvoltarea ecosistemului industriilor creative din Republica Moldova" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Septembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 30 Implementarea Programului „Europa Creativă” Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-30-2026-09-10/
+    - text: 26-B · ACȚIUNEA 30
+    - heading "Implementarea Programului „Europa Creativă”" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 31 Desfășurarea și organizarea apelului de desemnare a orașului pentru concursul „Capitală Europenă a Culturii” pentru anul 2033 Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Iunie 2026"':
+    - /url: /actiune/26-b-31-2026-09-10/
+    - text: 26-B · ACȚIUNEA 31
+    - heading "Desfășurarea și organizarea apelului de desemnare a orașului pentru concursul „Capitală Europenă a Culturii” pentru anul 2033" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Iunie 2026"
+  - 'link "26-B · ACȚIUNEA 32 Dezvoltarea și promovarea cooperării culturale cu țările partenere prin activități de diplomație culturale Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Februarie 2026-2027"':
+    - /url: /actiune/26-b-32-2026-09-10/
+    - text: 26-B · ACȚIUNEA 32
+    - heading "Dezvoltarea și promovarea cooperării culturale cu țările partenere prin activități de diplomație culturale" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Februarie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 33 Susținerea activităților creative ale artiștilor independenți Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Octombrie 2027"':
+    - /url: /actiune/26-b-33-2026-09-10/
+    - text: 26-B · ACȚIUNEA 33
+    - heading "Susținerea activităților creative ale artiștilor independenți" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Octombrie 2027"
+  - 'link "26-B · ACȚIUNEA 34 Organizarea și desfășurarea concursului proiectelor pentru accesarea programelor de rezidență și mobilitate artistică și culturală prin intermediul Fondului național al culturii Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Noiembrie 2026-2027"':
+    - /url: /actiune/26-b-34-2026-09-10/
+    - text: 26-B · ACȚIUNEA 34
+    - heading "Organizarea și desfășurarea concursului proiectelor pentru accesarea programelor de rezidență și mobilitate artistică și culturală prin intermediul Fondului național al culturii" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Noiembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 35 Modernizarea programelor de formare profesională continuă pentru artiști și manageri culturali în conformitate cu standardele europene Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Septembrie 2027"':
+    - /url: /actiune/26-b-35-2026-09-10/
+    - text: 26-B · ACȚIUNEA 35
+    - heading "Modernizarea programelor de formare profesională continuă pentru artiști și manageri culturali în conformitate cu standardele europene" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Septembrie 2027"
+  - 'link "26-B · ACȚIUNEA 36 Dezvoltarea și promovarea patrimoniului cinematografic național Document disponibil · explicație în așteptare CNC – Centrul Național al C i n e m a t o g r a f i e i Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-36-2026-09-10/
+    - text: 26-B · ACȚIUNEA 36
+    - heading "Dezvoltarea și promovarea patrimoniului cinematografic național" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: CNC – Centrul Național al C i n e m a t o g r a f i e i
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 37 Susținerea distribuției cinematografice prin intermediul Platformei „Europa Cinemas” Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-37-2026-09-10/
+    - text: 26-B · ACȚIUNEA 37
+    - heading "Susținerea distribuției cinematografice prin intermediul Platformei „Europa Cinemas”" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 38 Susținerea producțiilor cinematografice naționale prin intermediul Fondul cultural european „Eurimages” Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-38-2026-09-10/
+    - text: 26-B · ACȚIUNEA 38
+    - heading "Susținerea producțiilor cinematografice naționale prin intermediul Fondul cultural european „Eurimages”" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 39 Aderarea la EFAD (Agenția Europeană a Fondurilor de Film) și promovarea cinematografiei autohtone prin parteneriate Document disponibil · explicație în așteptare CNC – Centrul Național al Cinematografiei Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-39-2026-09-10/
+    - text: 26-B · ACȚIUNEA 39
+    - heading "Aderarea la EFAD (Agenția Europeană a Fondurilor de Film) și promovarea cinematografiei autohtone prin parteneriate" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: CNC – Centrul Național al Cinematografiei
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 40 Promovarea și aderarea la Rutele Culturale Europene Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-40-2026-09-10/
+    - text: 26-B · ACȚIUNEA 40
+    - heading "Promovarea și aderarea la Rutele Culturale Europene" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 41 Dezvoltarea sistemului informațional de interoperabilitate a bazelor de date în domeniul bunurilor culturale mobile Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Octombrie 2027"':
+    - /url: /actiune/26-b-41-2026-09-10/
+    - text: 26-B · ACȚIUNEA 41
+    - heading "Dezvoltarea sistemului informațional de interoperabilitate a bazelor de date în domeniul bunurilor culturale mobile" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Octombrie 2027"
+  - 'link "26-B · ACȚIUNEA 42 Dezvoltarea S.I. „Inventarul monumentelor ” Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-42-2026-09-10/
+    - text: 26-B · ACȚIUNEA 42
+    - heading "Dezvoltarea S.I. „Inventarul monumentelor ”" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 43 Elaborarea programelor de formare profesională continuă în domeniul patrimoniului cultural, inclusiv pentru specialiștii implicați în reabilitarea monumentelor istorice (arhitecți, ingineri etc.), precum și pentru reprezentanții structurilor de forță implicați în prevenirea și combaterea traficului ilicit de bunuri culturale și speciliștii din domeniul patrimoniului cultural responsabili de gestionarea bunurilor culturale. Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-43-2026-09-10/
+    - text: 26-B · ACȚIUNEA 43
+    - heading "Elaborarea programelor de formare profesională continuă în domeniul patrimoniului cultural, inclusiv pentru specialiștii implicați în reabilitarea monumentelor istorice (arhitecți, ingineri etc.), precum și pentru reprezentanții structurilor de forță implicați în prevenirea și combaterea traficului ilicit de bunuri culturale și speciliștii din domeniul patrimoniului cultural responsabili de gestionarea bunurilor culturale." [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 44 Digitalizarea patrimoniului cultural și valorificarea acestuia prin soluții digitale interactive, precum și utilizarea tehnologiilor digitale în proiectarea și prezentarea expozițiilor muzeale, pentru facilitarea accesului, interpretării și participării publicului. Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2026"':
+    - /url: /actiune/26-b-44-2026-09-10/
+    - text: 26-B · ACȚIUNEA 44
+    - heading "Digitalizarea patrimoniului cultural și valorificarea acestuia prin soluții digitale interactive, precum și utilizarea tehnologiilor digitale în proiectarea și prezentarea expozițiilor muzeale, pentru facilitarea accesului, interpretării și participării publicului." [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2026"
+  - 'link "26-B · ACȚIUNEA 45 Inventarierea monumentelor istorice în scopul documentării acestora și identificării celor cu valoare culturală națională excepțională Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-45-2026-09-10/
+    - text: 26-B · ACȚIUNEA 45
+    - heading "Inventarierea monumentelor istorice în scopul documentării acestora și identificării celor cu valoare culturală națională excepțională" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 46 Restaurarea și valorificarea monumentelor istorice și edificiilor culturale prin integrarea acestora în circuitele turistice și în procesele de revitalizare participativă a zonelor istorice, cu implicarea activă a comunităților locale, a autorităților publice și a actorilor economici. Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-46-2026-09-10/
+    - text: 26-B · ACȚIUNEA 46
+    - heading "Restaurarea și valorificarea monumentelor istorice și edificiilor culturale prin integrarea acestora în circuitele turistice și în procesele de revitalizare participativă a zonelor istorice, cu implicarea activă a comunităților locale, a autorităților publice și a actorilor economici." [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 47 Organizarea și desfășurarea activităților de promovare și valorificare a patrimoniului cultural, sensibilizarea arhitecților, dezvoltatorilor, autorităților publice, comunităților locale și publicului larg privind valoarea și semnificația patrimoniului cultural, inclusiv a bunurilor și elementelor înscrise în Lista Patrimoniului Mondial UNESCO și în Lista Reprezentativă a Patrimoniului Cultural Imaterial al Umanității Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-47-2026-09-10/
+    - text: 26-B · ACȚIUNEA 47
+    - heading "Organizarea și desfășurarea activităților de promovare și valorificare a patrimoniului cultural, sensibilizarea arhitecților, dezvoltatorilor, autorităților publice, comunităților locale și publicului larg privind valoarea și semnificația patrimoniului cultural, inclusiv a bunurilor și elementelor înscrise în Lista Patrimoniului Mondial UNESCO și în Lista Reprezentativă a Patrimoniului Cultural Imaterial al Umanității" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 48 Elaborarea și depunerea dosarelor de nominalizare pentru înscrierea bunurilor/elementelor de patrimoniu cultural în Lista Patrimoniului Mondial UNESCO și/sau în Lista Reprezentativă a Patrimoniului Cultural Imaterial al Umanității Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-48-2026-09-10/
+    - text: 26-B · ACȚIUNEA 48
+    - heading "Elaborarea și depunerea dosarelor de nominalizare pentru înscrierea bunurilor/elementelor de patrimoniu cultural în Lista Patrimoniului Mondial UNESCO și/sau în Lista Reprezentativă a Patrimoniului Cultural Imaterial al Umanității" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 49 Elaborarea unui studiu național de evaluare și management al riscurilor care afectează patrimoniul cultural, inclusiv în contextul schimbărilor globale Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-49-2026-09-10/
+    - text: 26-B · ACȚIUNEA 49
+    - heading "Elaborarea unui studiu național de evaluare și management al riscurilor care afectează patrimoniul cultural, inclusiv în contextul schimbărilor globale" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 51 Crearea unui mecanism de subvenționare pentru teatre, circuri și organizații de concerte de drept public Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2026-2027"':
+    - /url: /actiune/26-b-51-2026-09-10/
+    - text: 26-B · ACȚIUNEA 51
+    - heading "Crearea unui mecanism de subvenționare pentru teatre, circuri și organizații de concerte de drept public" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2026-2027"
+  - 'link "26-B · ACȚIUNEA 52 Instituirea și operaționalizarea unei platforme integrate de gestionare a fondurilor publice pentru cultură Document disponibil · explicație în așteptare MC – Ministerul Culturii Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-52-2026-09-10/
+    - text: 26-B · ACȚIUNEA 52
+    - heading "Instituirea și operaționalizarea unei platforme integrate de gestionare a fondurilor publice pentru cultură" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: MC – Ministerul Culturii
+    - generic: "Termen: Decembrie 2027"
+  - 'link "26-B · ACȚIUNEA 53 Organizarea de instruiri în domeniile integrității, anticorupției, achizițiilor publice și controlului managerial intern pentru reprezentanții instituțiilor în care MC are calitatea de fondator, inclusiv pentru AIRM Document disponibil · explicație în așteptare A g e n ţ i a d e Inspectare și Restaurare a Monumentelor, Ministerul Culturii Termen: Decembrie 2027"':
+    - /url: /actiune/26-b-53-2026-09-10/
+    - text: 26-B · ACȚIUNEA 53
+    - heading "Organizarea de instruiri în domeniile integrității, anticorupției, achizițiilor publice și controlului managerial intern pentru reprezentanții instituțiilor în care MC are calitatea de fondator, inclusiv pentru AIRM" [level=3]
+    - paragraph: Document disponibil · explicație în așteptare
+    - generic: A g e n ţ i a d e Inspectare și Restaurare a Monumentelor, Ministerul Culturii
+    - generic: "Termen: Decembrie 2027"
+- contentinfo:
+  - generic: pna.md · Inițiativă civică independentă
+  - link "Metodologie și acoperire":
+    - /url: /despre/#metodologie
+  - generic: Surse consultate la 10.09.2026
